@@ -1,2 +1,4 @@
-# size-game-index-content
-Contains the content for the Size Game Index
+# Size Game Index
+
+This repo contains the content for the Size Game Index
+
