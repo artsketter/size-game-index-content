@@ -5,15 +5,15 @@ Create a new folder in `/games/` containing `game.csv` and up to 5 thumbnails.
 
 ## game.csv
 
-Two columns, one field per row: `field,value`. Use `|` to separate multiple values (tags, links, languages, author tags). 
+Two columns, one field per row: `field,value`. Use `|` to separate multiple values (tags, links, languages). 
 
 Dates are in the format: `YYYY-MM-DD`. 
 
 Checkboxes: `yes` / `no`. 
 
-Ratings: `art\_rating`, `mechanic\_rating`, `animation\_rating` are 1–5; `size\_focus` is 1–3.
+Ratings: `art_rating`, `mechanic_rating`, `animation_rating` are 1–5; `size_focus` is 1–3.
 
-Currently included fields: title, original\_title, summary, narrative, time\_to\_complete, tags, development\_status, pricing\_model, game\_engine, art\_rating, main\_art\_style, mechanic\_rating, mechanics\_description, animation\_rating, size\_focus, game\_links, walkthrough (file name inside the game folder), creator\_link, forum\_link, authors, author\_tags, last\_updated, latest\_content\_update, release\_date, languages, recommended, filtered, contains\_ai, entry\_last\_updated, creation\_time, thumbnails (optional).
+Currently included fields: title, original_title, summary, narrative, time_to_complete, tags, interactions, development_status, pricing_model, game_engine, art_rating, main_art_style, mechanic_rating, mechanics_description, animation_rating, size_focus, game_links, walkthrough (file name inside the game folder), creator_link, forum_link, authors, last_updated, latest_content_update, release_date, languages, filtered, contains_ai, entry_last_updated, creation_time, thumbnails.
 
 Thumbnails: .jpg/.png/.webp work. The first one listed is the gallery thumbnail.
 

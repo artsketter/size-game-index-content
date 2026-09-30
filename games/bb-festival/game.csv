@@ -1,10 +1,10 @@
 field,value
 title,BB Festival
-original_title,
+original_title,BBフェスティバル
 summary,"Miniguy game with a variety of minigames."
 narrative,"In order to repay your parent’s debts you have been shrunk and forced to complete tasks for a group of giant bunnygirls."
 time_to_complete,
-tags,Minigames|Miniguy
+tags,Miniguy|Oneeshota|Minigames
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,
@@ -27,4 +27,4 @@ filtered,yes
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

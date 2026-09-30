@@ -4,7 +4,8 @@ original_title,
 summary,"Cruel size game based on the titular character from the manga of the same name by Uru. Features shrinkable NPCs and Live2D animated size scenarios. (Current version contains 1 scenario)"
 narrative,"You play as the Elf Princess, using her magic to torment humans by shrinking them, or growing giant. Time to Complete: <10 minutes"
 time_to_complete,
-tags,F/m|Cruel|Giantess|Miniguy|Playable gts
+tags,Giantess|Miniguy|Cruel|Playable gts
+interactions,Female/male
 development_status,In Development
 pricing_model,Membership Site
 game_engine,GameMaker
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|gameplay.webp|gameplay1.webp|gameplay2.webp

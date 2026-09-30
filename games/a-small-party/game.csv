@@ -2,9 +2,10 @@ field,value
 title,A small Party
 original_title,
 summary,"Early prototype for a miniguy visual novel"
-narrative,"You are a size fetish artist who had been trying to keep it a secret until your friend Emma walked in on you, and your relationship has been tense ever since. Emma invites you to her apartment for your birthday, with a little surprise… Time to Complete: <10 minutes"
-time_to_complete,
-tags,F/m|Miniguy|Unaware|Visual novel
+narrative,"You are a size fetish artist who had been trying to keep it a secret until your friend Emma walked in on you, and your relationship has been tense ever since. Emma invites you to her apartment for your birthday, with a little surprise…"
+time_to_complete,<10 minutes
+tags,Miniguy|Unaware|Visual novel
+interactions,Female/male
 development_status,Demo
 pricing_model,Freeware with Early Access
 game_engine,Ren'Py
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|image.webp|image1.webp|image2.webp
