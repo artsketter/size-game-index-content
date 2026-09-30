@@ -1,4 +1,4 @@
-# Size Game Index
+# Size Game Index Content Info
 
 ## Adding a new game
 Create a new folder in `/games/` containing `game.csv` and up to 5 thumbnails.
@@ -17,13 +17,6 @@ Currently included fields: title, original\_title, summary, narrative, time\_to\
 
 Thumbnails: .jpg/.png/.webp work. The first one listed is the gallery thumbnail.
 
-## Notes
+## md2csv.exe
 
-- Entries with `filtered = yes` are hidden unless “Show filtered entries” is enabled.
-
-- `entry\_last\_updated` and `creation\_time` are read from the CSV; update them when you edit or add an entry.
-
-- Cookies: `filters` (tag filters) and `played` (played-before list).
-
-- All styling lives in `css/style.css`.
-
+Used to convert notion markdown files from the size archive into .csv format with the correct formatting. Drag-and-drop any number of markdown files onto the executable and they will be deposited into appropriately named folders and formatted directly for use on the site.
