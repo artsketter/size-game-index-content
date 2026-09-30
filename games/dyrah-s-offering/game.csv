@@ -1,0 +1,30 @@
+field,value
+title,Dyrah’s Offering
+original_title,
+summary,"Prototype of a giantess growth simulation game with pixelart graphics. Currently contains one minigame."
+narrative,"You wake up stranded on an island with a girl named Mia. A mural in the center of the island depicts a ring which Time to Complete: <10 minutes"
+time_to_complete,
+tags,Giantess|Growth|Minigames|Simulation
+development_status,In Development
+pricing_model,Free
+game_engine,Unity
+art_rating,4
+main_art_style,Pixel Art
+mechanic_rating,2
+mechanics_description,"Explore an island and speak with Mia to play a minigame (currently only tag) to increase the experience meter. Whenever the meter is full Mia grows a size larger, making subsequent minigames harder."
+animation_rating,3
+size_focus,3
+game_links,https://naralagi.itch.io/dyrahs-offering
+walkthrough,
+creator_link,
+forum_link,
+authors,Naralagi
+last_updated,2026-09-10
+latest_content_update,FREE: v0.2 update
+release_date,2026-06-10
+languages,English
+filtered,no
+contains_ai,no
+entry_last_updated,2026-09-30
+creation_time,2026-09-30
+thumbnails,
