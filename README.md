@@ -20,3 +20,8 @@ Thumbnails: .jpg/.png/.webp work. The first one listed is the gallery thumbnail.
 ## md2csv.exe
 
 Used to convert notion markdown files from the size archive into .csv format with the correct formatting. Drag-and-drop any number of markdown files onto the executable and they will be deposited into appropriately named folders and formatted directly for use on the site.
+
+## webp_drop.exe
+
+Used to compress image files into .webp format to save space. Drag-and-drop any number of images onto the executable to convert.
+`config.ini` contains additional parameters for controlling the output.

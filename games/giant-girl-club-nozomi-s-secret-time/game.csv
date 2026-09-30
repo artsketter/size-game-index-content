@@ -1,10 +1,10 @@
 field,value
 title,Giant Girl Club: Nozomi’s Secret Time
 original_title,
-summary,"Short spin-off fangame about Nozomi from https://app.notion.com/p/27a704c4333f811aa51ee97fc8ca2f5e?pvs=21 toying with Yuu, set during the events of Season 2 Part 1"
+summary,"Short spin-off fangame about Nozomi from Giant Girl Club toying with Yuu, set during the events of Season 2 Part 1"
 narrative,
 time_to_complete,
-tags,Highschool|Miniguy
+tags,Miniguy|Highschool
 development_status,Discontinued
 pricing_model,Free
 game_engine,Godot
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|gameplay.webp

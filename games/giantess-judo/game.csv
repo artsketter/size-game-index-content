@@ -4,7 +4,7 @@ original_title,
 summary,"Short VR scenario (No Desktop Mode)"
 narrative,
 time_to_complete,
-tags,Vr|First person|Minigts
+tags,Minigts|VR
 development_status,Discontinued
 pricing_model,Membership Site
 game_engine,Unity
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

@@ -2,9 +2,10 @@ field,value
 title,Grape Escape
 original_title,
 summary,"Short arcade game where you play as a grape dodging a giant pair of feet"
-narrative,"You are a grape in a barrel, about to be stomped on by a young lady making traditional wine Time to Complete: ∞ endless"
-time_to_complete,
+narrative,"You are a grape in a barrel, about to be stomped on by a young lady making traditional wine."
+time_to_complete,∞ endless
 tags,Androgynous tiny|Arcade|Transformation
+interactions,Female/object
 development_status,Completed
 pricing_model,Free
 game_engine,Unity
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

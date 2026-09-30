@@ -4,7 +4,7 @@ original_title,
 summary,"Asset-flip 3D sandbox game with linear story and a handful of gts interactions."
 narrative,"You and your girlfriend got mysteriously shrunk during a commotion about a noise complaint caused by your neighbour’s step sister"
 time_to_complete,
-tags,Asset flip|Exploration|Miniguy|Unaware
+tags,Miniguy|Asset flip|Exploration|Unaware
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unreal
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

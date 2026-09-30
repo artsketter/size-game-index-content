@@ -4,7 +4,7 @@ original_title,
 summary,"Adventure game where you explore a shrine as a micro while avoiding the shrine maidens."
 narrative,"You are invited by your friend Rika to investigate a shrine for your summer project. While making a heap of prayers at a statue, the goddess decides to punish you for your greed, shrinking you down to the size of a speck of dust. In order to return to your previous size you will need to pass several “trials” where you survive encounters with the shrine’s maidens."
 time_to_complete,
-tags,Vroid studio|Adventure|Micro|Unaware
+tags,Micro|Adventure|Unaware|Vroid studio
 development_status,Completed
 pricing_model,Free
 game_engine,Godot
@@ -14,7 +14,7 @@ mechanic_rating,3
 mechanics_description,
 animation_rating,3
 size_focus,3
-game_links,https://www.patreon.com/posts/dust-taboo-144418562 Game Walkthrough: Dust%20Taboo/Dust_Taboo_Death_Scene_-_Sheet1_260708.pdf
+game_links,https://www.patreon.com/posts/dust-taboo-144418562
 walkthrough,dust_taboo_guide.pdf
 creator_link,https://www.patreon.com/cw/Kitamiya
 forum_link,

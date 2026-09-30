@@ -1,10 +1,10 @@
 field,value
 title,GiantRoom
 original_title,
-summary,"Miniguy environment asset flip with a collection of store asset and VRoid characters Time to Complete: <5 minutes"
+summary,"Miniguy environment asset flip with a collection of store asset and VRoid characters."
 narrative,
-time_to_complete,
-tags,Vroid studio|Asset flip|Miniguy
+time_to_complete,<5 minutes
+tags,Miniguy|Asset flip|Vroid studio
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unreal
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|gameplay.webp

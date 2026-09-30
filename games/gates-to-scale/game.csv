@@ -4,7 +4,8 @@ original_title,
 summary,"Interview giant alien girls. Visual novel previously made with Unity. Art by https://x.com/Karsinan2"
 narrative,"You are hired as an intern at a secret lab to interview alien girls from other worlds. As a precaution to make them feel safer all interns are shrunk (?)."
 time_to_complete,
-tags,F/m|Miniguy|Visual novel
+tags,Miniguy|Visual novel
+interactions,Female/male
 development_status,In Development
 pricing_model,Membership Site
 game_engine,RPGMAKER MZ
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

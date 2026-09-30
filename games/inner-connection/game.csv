@@ -4,7 +4,7 @@ original_title,
 summary,"Narrative-focused micro RPG with pseudo-turn based combat mechanics and character switching puzzle dungeons."
 narrative,"After the Hero Greyson returns from his mission to capture the leader of the Bloodeye bandits, the entire capital city of Caladren is shaken by a spell of unknown origin, shrinking the city and its inhabitants to a speck on top of a cake. A Thief girl who had previously crossed paths with Greyson ends up eating the cake, unaware of the consequences, throwing the kingdom into ruin. With the aid of a mysterious fate-defying deity, Hero Greyson will have to find a way to save the kingdom and its people from the girl’s insides."
 time_to_complete,
-tags,Rpg|Adventure|Micro|Puzzle|Vore
+tags,Micro|RPG|Adventure|Puzzle|Vore
 development_status,In Development
 pricing_model,Free
 game_engine,RPGMAKER MZ
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|gameplay.webp|gameplay1.webp

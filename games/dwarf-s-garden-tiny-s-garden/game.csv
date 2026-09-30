@@ -1,9 +1,9 @@
 field,value
-title,Dwarf’s Garden / Tiny’s Garden
+title,Dwarf's Garden / Tiny's Garden
 original_title,
 summary,"Unity school exploration game"
-narrative,"A classmate shrinks you down by injecting you with a shrinking chemical. Explore the school to find a cure. Time to Complete: <30 minutes"
-time_to_complete,
+narrative,"A classmate shrinks you down by injecting you with a shrinking chemical. Explore the school to find a cure."
+time_to_complete,<30 minutes
 tags,Highschool|Miniguy
 development_status,In Development
 pricing_model,Free

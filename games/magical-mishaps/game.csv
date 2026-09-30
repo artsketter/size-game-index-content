@@ -5,6 +5,7 @@ summary,"Visual novel / dating simulator with giant girls. In addition to the ma
 narrative,"You are a gnome at a mixed-species highschool full of normal-sized girls"
 time_to_complete,
 tags,Dating simulator|Miniguy|Visual novel
+interactions,Female/male
 development_status,Completed
 pricing_model,Freeware with Early Access
 game_engine,Ren'Py
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

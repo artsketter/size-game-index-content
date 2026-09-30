@@ -4,7 +4,8 @@ original_title,
 summary,"Miniguy adventure featuring Kanako Yasaka from Touhou Project"
 narrative,
 time_to_complete,
-tags,F/m|Miniguy
+tags,Miniguy
+interactions,Female/male
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER VX
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

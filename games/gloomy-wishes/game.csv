@@ -4,7 +4,8 @@ original_title,
 summary,"Isekai RPG with many interactive gts scenarios"
 narrative,"You and several others at their wits end are transported to a fantasy world for a second chance. A young woman bullied for her height wishes to become taller than everyone else, leading to the entire town being shrunken down when a mysterious power grants her wish."
 time_to_complete,
-tags,F/m|Rpg|Cruel|Miniguy|Shrinking
+tags,Miniguy|RPG|Cruel|Shrinking
+interactions,Female/male
 development_status,Paused
 pricing_model,Freeware with Early Access
 game_engine,RPGMAKER MZ
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

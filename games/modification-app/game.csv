@@ -4,7 +4,8 @@ original_title,
 summary,"Visual novel with a variety of body modification branches. Includes short minigts growth path."
 narrative,"You have a crush on your roommate Mia, but are too scared to make a move. Divine intervention by the game’s developer installs the “Modification App” on your phone, which lets you and Mia grow closer together."
 time_to_complete,
-tags,F/m|Growth|Minigts|Sex|Visual novel|Voice acting
+tags,Growth|Minigts|Sex|Visual novel|Voice acting
+interactions,Female/male
 development_status,In Development
 pricing_model,Freeware with Early Access
 game_engine,Godot
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

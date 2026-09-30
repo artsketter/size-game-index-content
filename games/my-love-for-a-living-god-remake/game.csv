@@ -2,9 +2,10 @@ field,value
 title,My Love for a Living God (Remake)
 original_title,
 summary,"Remake of Peacher’s My Love for a Living God (My%20Love%20for%20a%20Living%20God%203ae704c4333f80ffb1fbc37183b2e2e2.md) in Godot"
-narrative,"You are a nameless villager living in the Human Village of Gensokyo (Touhou), madly obsessed with Sanae Kochiya, a local shrine maiden. When given an opportunity by a shady merchant to indulge in your twisted desire to spy on her, you jump at the chance, but what could be the catch? Time to Complete: <30 minutes"
-time_to_complete,
-tags,F/m|Vroid studio|Adventure|Cruel|Micro|Miniguy|Unaware
+narrative,"You are a nameless villager living in the Human Village of Gensokyo (Touhou), madly obsessed with Sanae Kochiya, a local shrine maiden. When given an opportunity by a shady merchant to indulge in your twisted desire to spy on her, you jump at the chance, but what could be the catch?"
+time_to_complete,<30 minutes
+tags,Miniguy|Adventure|Cruel|Micro|Unaware|Vroid studio
+interactions,Female/male
 development_status,Completed
 pricing_model,Free
 game_engine,Godot
@@ -22,9 +23,9 @@ authors,"Peacher [OG DEV], Kitamiya [DEV]"
 last_updated,2026-08-12
 latest_content_update,FREE: game released + english translation
 release_date,2026-08-06
-languages,English|Japanese
+languages,Japanese|English
 filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

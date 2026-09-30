@@ -4,7 +4,7 @@ original_title,
 summary,"Chinese miniguy RPG inspired by https://app.notion.com/p/27a704c4333f81b6b4c4c813b68a1742?pvs=21. Re-uses a variety of screenshots from various media and assets from other games. Special thanks to xianchengwww for providing a MEGA upload for the game files."
 narrative,
 time_to_complete,
-tags,Rpg|Adventure|Highschool|Miniguy
+tags,Miniguy|RPG|Adventure|Highschool
 development_status,In Development
 pricing_model,Free
 game_engine,RPGMAKER VX
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp
