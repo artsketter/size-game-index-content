@@ -4,7 +4,8 @@ original_title,
 summary,"Pokémon fangame with monotype-style creature limitations (Including optional progression unlocks after a defeat) Contains a handful of miniguy scenarios after losing a battle."
 narrative,"A mysterious experiment has led all male pokemon trainers to get shrunk!"
 time_to_complete,
-tags,F/m|Creature collecting|Miniguy|Roguelike|Strategy
+tags,Creature collecting|Miniguy|Roguelike|Strategy
+interactions,Female/male
 development_status,Discontinued
 pricing_model,Free
 game_engine,RPGMAKER XP
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|image.webp

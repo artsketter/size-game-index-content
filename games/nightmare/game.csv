@@ -4,7 +4,7 @@ original_title,
 summary,"RPG with shrinking elements later in the game"
 narrative,"You are summoned to another world as a hero, and ordered by the king to become stronger to defend his country. Shrinking magic exists, which occasionally shrinks the player to make previously harmless enemy encounters lethal"
 time_to_complete,
-tags,Rpg|Miniguy|Shrinking
+tags,Miniguy|Shrinking|RPG
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MV
@@ -23,8 +23,8 @@ last_updated,
 latest_content_update,
 release_date,2022-04-14
 languages,Japanese
-filtered,no
+filtered,yes
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

@@ -2,9 +2,9 @@ field,value
 title,Skinwalker x1000
 original_title,
 summary,"RPG where you play as two differently sized parties intermittently (Girl / Miniguy)."
-narrative,"Psychic Ansel wakes up in a daze, finding himself shrunken after witnessing a magic array in the sky. He discovers that a “Great Shrink” occured while he had secluded himself, leaving many inhabitants of the kingdom of Suraoem stuck at a tiny size. Meanwhile, noble Genevieve and her paladin friend Gabrielle discover a deposit of a legendary power crystal, which may be the missing link to a secret experiment the kingdom has been working on…"
+narrative,"Psychic Ansel wakes up in a daze, finding himself shrunken after witnessing a magic array in the sky. He discovers that a “Great Shrink” occured while he had secluded himself, leaving many inhabitants of the kingdom of Suraoem stuck at a tiny size. Meanwhile, noble Genevieve and her paladin friend Gabrielle discover a deposit of a legendary power crystal, which may be the missing link to a secret experiment the kingdom has been working on..."
 time_to_complete,
-tags,Rpg|Miniguy|Unaware
+tags,Miniguy|RPG|Unaware
 development_status,In Development
 pricing_model,Free
 game_engine,RPGMAKER MV
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|gameplay.webp

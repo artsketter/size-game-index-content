@@ -1,10 +1,11 @@
 field,value
 title,Shrinking Game: Small life is hard!
-original_title,
-summary,"Miniguy exploration game with minimal RPG elements. Explore a highschool filled with Shivharu’s original characters. (Tip: The black screen image in the english version is not loaded properly. Create a duplicate of the black screen image inside the pictures folder and name it “黒画面.png” to avoid a loading bug)"
+original_title,シュリンキング～小さくなって大ハード～
+summary,"Miniguy exploration game with minimal RPG elements. Explore a highschool filled with Shivharu’s original characters. 
+(Tip: The black screen image in the english version is not loaded properly. Create a duplicate of the black screen image inside the pictures folder and name it “黒画面.png” to avoid a loading bug)"
 narrative,"You wake up shrunk to 3cm inside of a highschool, and have to find 10 hidden items in order to return to your normal size. Girls you encounter mistake you for a bug and attempt to trample you."
 time_to_complete,
-tags,Rpg|Exploration|Highschool|Miniguy
+tags,Miniguy|Exploration|Highschool
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,RPGMAKER MV
@@ -22,9 +23,9 @@ authors,Shivharu
 last_updated,2021-02-08
 latest_content_update,DLSITE: game released
 release_date,2021-02-08
-languages,English|Japanese
+languages,Japanese|English
 filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

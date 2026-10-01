@@ -1,9 +1,9 @@
 field,value
 title,Natsuki and Yuri’s Planetary Play
 original_title,
-summary,"Doki Doki Literature Club fanfiction visual novel with full voiceover Time to Complete: <1 hour"
+summary,"Doki Doki Literature Club fanfiction visual novel with full voiceover."
 narrative,
-time_to_complete,
+time_to_complete,<1 hour
 tags,Micro|Planetsize|Visual novel
 development_status,Completed
 pricing_model,Free
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|image.webp

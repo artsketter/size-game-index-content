@@ -1,10 +1,10 @@
 field,value
-title,Pam’s Targets
+title,Pam's Targets
 original_title,
 summary,"Short FPS minigame with shrinking loss image"
 narrative,
 time_to_complete,
-tags,Fps
+tags,FPS
 development_status,Completed
 pricing_model,Free
 game_engine,Unity
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

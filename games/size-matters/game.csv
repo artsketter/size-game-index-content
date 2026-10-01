@@ -1,10 +1,11 @@
 field,value
 title,Size Matters
 original_title,
-summary,"Very high-scope adventure game with high quality illustrations, interactive gameplay with body exploration and high variety of scenarios. Contains extensive narrative with complete endings."
-narrative,"You play as the hero. After defeated a supposed “demon lord”, a giant girl calling herself the real demon lord appears and destroys your country. Instantly obliterated with a single breath, your consciousness briefly fades before your goddess brings you back to life. She asks you to journey into the demon lord’s world to stop her before she destroys your whole world, aiding you with her weakened goddess powers. Upon travelling to the other world you are confronted with the reality that what you formerly thought was an immortal “demon lord” is actually just a cockroach from the other world, and that you are simply tiny compared to the citizens of this world."
+summary,"Very high-scope adventure game with high quality illustrations, interactive gameplay with body exploration and high variety of scenarios. Contains extensive narrative with complete branching endings."
+narrative,"You play as the hero. After defeated a supposed “demon lord”, a giant girl calling herself the real demon lord appears and destroys your country. Instantly obliterated with a single breath, your consciousness briefly fades before your goddess brings you back to life. She asks you to journey into the demon lord's world to stop her before she destroys your whole world, aiding you with her weakened goddess powers. Upon travelling to the other world you are confronted with the reality that what you formerly thought was an immortal “demon lord” is actually just a cockroach from the other world, and that you are simply tiny compared to the citizens of this world."
 time_to_complete,
-tags,F/m|Adventure|Cruel|Futa|Highschool|Miniguy|Playable gts|Vore
+tags,Miniguy|Adventure|Cruel|Futa|Highschool|Playable gts|Vore
+interactions,Female/male
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MV
@@ -14,17 +15,17 @@ mechanic_rating,5
 mechanics_description,
 animation_rating,
 size_focus,3
-game_links,https://www.patreon.com/posts/28249469 Game Walkthrough: Size%20Matters/Size_Matters__All_Events_Guide_260708.pdf
-walkthrough,
+game_links,https://www.patreon.com/posts/28249469
+walkthrough,size_matters_guide.pdf
 creator_link,
 forum_link,https://giantesscity.com/forum/viewtopic.php?f=64&t=165220
 authors,Uru
 last_updated,2019-07-09
 latest_content_update,FREE: v0.7 update (JP)
 release_date,2016-02-02
-languages,English|Japanese
+languages,Japanese|English
 filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|image.webp

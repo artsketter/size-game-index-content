@@ -4,7 +4,8 @@ original_title,
 summary,"Very short body exploration game where you explore Kanade Hayami’s face while at a microscopic size, under the impression that it is all a dream."
 narrative,"You play as the Idolmaster (Producer) about to have a meeting with Kanade, one of your idols, when you unexpectedly pass out. When you wake up, you inexplicably find yourself on a giant pink landscape."
 time_to_complete,
-tags,F/m|Exploration|Micro
+tags,Micro|Exploration
+interactions,Female/male
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MZ
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

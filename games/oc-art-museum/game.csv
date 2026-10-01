@@ -1,9 +1,9 @@
 field,value
 title,OC Art Museum
-original_title,
-summary,"Miniguy scene viewer game with a handful of events featuring Original Characters by illustrator https://x.com/kureha_kanzaki. (Very early prototype, current version has many non-functional placeholder mechanics) Time to Complete: <20 minutes"
+original_title,オリキャラ美術館
+summary,"Miniguy scene viewer game with a handful of events featuring Original Characters by illustrator https://x.com/kureha_kanzaki. (Very early prototype, current version has many non-functional placeholder mechanics)"
 narrative,
-time_to_complete,
+time_to_complete,<20 minutes
 tags,Miniguy|Unaware
 development_status,In Development
 pricing_model,Membership Site
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|illust.webp|illust1.webp|gameplay.webp

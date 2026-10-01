@@ -1,17 +1,21 @@
 field,value
 title,Succubus Showdown!
 original_title,
-summary,"Oneeshota minigts minigame collection Time to Complete: <20 minutes"
+summary,"Oneeshota minigts minigame collection"
 narrative,
-time_to_complete,
-tags,F/m|Femdom|Minigames|Minigts|Oneeshota
+time_to_complete,<20 minutes
+tags,Minigts|Femdom|Minigames|Oneeshota
+interactions,Female/male
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
 art_rating,5
 main_art_style,Illustration
 mechanic_rating,2
-mechanics_description,"3 minigames to complete, each with their own defeat scenes. 4 lives before a gameover scene. Stage1 - Explore a grid to find 3 keys before you can leave, each key spawns a succubus hunter which loses you a life when colliding with the player. Stage2 - Bounce up a wall of floating platforms, press left- and right-click to change the direction of movement. Falling into the void loses you a life. Stage3 - Flappy bird-like game where you avoid the floating angels. Colliding with an angel loses you a life."
+mechanics_description,"3 minigames to complete, each with their own defeat scenes. 4 lives before a gameover scene. 
+Stage1 - Explore a grid to find 3 keys before you can leave, each key spawns a succubus hunter which loses you a life when colliding with the player. 
+Stage2 - Bounce up a wall of floating platforms, press left- and right-click to change the direction of movement. Falling into the void loses you a life. 
+Stage3 - Flappy bird-like game where you avoid the floating angels. Colliding with an angel loses you a life."
 animation_rating,5
 size_focus,2
 game_links,https://www.dlsite.com/maniax/work/=/product_id/RJ01654810.html
@@ -22,9 +26,9 @@ authors,L_Buffer
 last_updated,2026-06-26
 latest_content_update,DLSITE: game released
 release_date,2026-06-26
-languages,English|Japanese
+languages,Japanese|English
 filtered,yes
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|gameplay.webp|image.webp

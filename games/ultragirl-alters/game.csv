@@ -10,7 +10,7 @@ pricing_model,Premium Purchase
 game_engine,Unity
 art_rating,5
 main_art_style,
-mechanic_rating,3
+mechanic_rating,2
 mechanics_description,
 animation_rating,5
 size_focus,1
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

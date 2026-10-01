@@ -1,10 +1,11 @@
 field,value
-title,Yuno’s Little Adventure
-original_title,
+title,Yuno's Little Adventure
+original_title,雨诺小冒险
 summary,"Discontinued minigirl adventure game"
 narrative,
 time_to_complete,
-tags,F/f|Adventure|Minigirl|Unbirth|Vore
+tags,Minigirl|Adventure|Unbirth|Vore
+interactions,Female/female
 development_status,Discontinued
 pricing_model,Free
 game_engine,RPGMAKER MV
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|gameplay.webp|image.webp|image1.webp|image2.webp

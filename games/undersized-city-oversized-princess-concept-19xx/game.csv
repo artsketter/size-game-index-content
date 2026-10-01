@@ -1,9 +1,9 @@
 field,value
 title,"Undersized City, Oversized Princess!: Concept 19XX"
 original_title,
-summary,"Megaman-style giantess boss fight platformer prototype from Takaisen’s game series Undersized City, Oversized Princess! (Undersized%20City,%20Oversized%20Princess!%2027a704c4333f8103b1caf58a7a1ac639.md) Time to Complete: <5 minutes"
+summary,"Megaman-style giantess boss fight platformer prototype from Takaisen's game series Undersized City, Oversized Princess!"
 narrative,
-time_to_complete,
+time_to_complete,<5 minutes
 tags,Arcade|Giantess|Growth|Sidescroller
 development_status,Completed
 pricing_model,Free (DEMO)
@@ -22,9 +22,9 @@ authors,TAKAIWERKS
 last_updated,2026-08-16
 latest_content_update,FREE: prototype released
 release_date,2026-08-16
-languages,English|Japanese
+languages,Japanese|English
 filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|gameplay.webp

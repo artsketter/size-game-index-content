@@ -4,7 +4,7 @@ original_title,
 summary,"RPG game with many varied scenarios and guest artists"
 narrative,
 time_to_complete,
-tags,Rpg|Adventure|Highschool|Miniguy
+tags,Miniguy|Adventure|RPG|Highschool
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MV
@@ -27,4 +27,4 @@ filtered,yes
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|image.webp

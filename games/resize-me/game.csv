@@ -4,7 +4,7 @@ original_title,
 summary,"VR focused game with interactive scenarios. Limited gameplay, but high quality 3D environment and audio design."
 narrative,"You are meeting a childhood friend to study together, when she suddenly reveals her shrinking power, and turns you into her pet."
 time_to_complete,
-tags,Vr|First person|Highschool|Miniguy|Sandbox|Shrinking
+tags,Miniguy|VR|First person|Highschool|Shrinking
 development_status,In Development
 pricing_model,Freeware with Early Access
 game_engine,Unity
@@ -12,7 +12,7 @@ art_rating,5
 main_art_style,3D Environment
 mechanic_rating,2
 mechanics_description,"Explore a giant 3D room and interact with markers to start events."
-animation_rating,3
+animation_rating,4
 size_focus,3
 game_links,https://www.patreon.com/c/resizeme
 walkthrough,
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

@@ -1,10 +1,11 @@
 field,value
 title,Shrink High / Reduction School
-original_title,
-summary,"RPG with miniguy battles and scenarios in the latter portion of the game Time to Complete: <40 hours"
+original_title,縮小学園
+summary,"RPG with miniguy battles and scenarios in the latter portion of the game."
 narrative,
-time_to_complete,
-tags,F/m|Rpg|Adventure|Exploration|Highschool|Miniguy
+time_to_complete,<40 hours
+tags,Miniguy|RPG|Adventure|Exploration|Highschool|Grindy
+interactions,Female/male
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER VX
@@ -22,9 +23,9 @@ authors,"A.S. [PROG], Manzi_ss [ILLU]"
 last_updated,2012-03-12
 latest_content_update,FREE: v1.44 update
 release_date,2008-05-20
-languages,English|Japanese
+languages,Japanese|English
 filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

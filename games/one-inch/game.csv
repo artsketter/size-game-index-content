@@ -14,8 +14,8 @@ mechanic_rating,3
 mechanics_description,"Search and harvest scraps from around the map, craft items and fight insects. Interactions with one of the many girls will trigger a “dire moment” which requires a dice roll to succeed."
 animation_rating,
 size_focus,3
-game_links,https://app.notion.comMEGA / GDRIVE in forum post Game Walkthrough: One%20Inch/One_Inch_Guide.pdf
-walkthrough,
+game_links,
+walkthrough,one_inch_guide.pdf
 creator_link,https://www.patreon.com/oneinch
 forum_link,https://giantesscity.com/forum/viewtopic.php?f=64&t=176515
 authors,Bitchinmofo456
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|gameplay.webp|gameplay1.webp|gameplay2.webp

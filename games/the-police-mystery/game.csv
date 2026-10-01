@@ -1,7 +1,7 @@
 field,value
 title,The Police Mystery
 original_title,
-summary,"Extended version of https://app.notion.com/p/27a704c4333f81ce89b3c7c3824ffffc?pvs=21 with new character models"
+summary,"Extended version of Police Investigation with different character models"
 narrative,"Someone has shrunken down the men of the police department. It’s up to you to save them and find the culprit."
 time_to_complete,
 tags,Asset flip|Exploration|Miniguy|Unaware
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|gameplay.webp

@@ -5,6 +5,7 @@ summary,"Many short self-contained adventure games with a shrunken player"
 narrative,"Variety of different scenarios: A king shrunken down by a witch, A boyfriend shrunken in his girlfriend’s house etc."
 time_to_complete,
 tags,Adventure|Miniguy|Unaware
+interactions,Female/male
 development_status,Completed
 pricing_model,Membership Site
 game_engine,RPGMAKER MV
@@ -27,4 +28,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|image.webp|image1.webp

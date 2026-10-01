@@ -1,10 +1,11 @@
 field,value
 title,The Experiment
-original_title,
-summary,"Miniguy on femboy exploration game inspired by Ochiko’s President Matsudo’s Ambition (President%20Matsudo%E2%80%99s%20Ambition%2027a704c4333f8156b69eecf792160c71.md)"
+original_title,實驗
+summary,"Miniguy on femboy exploration game inspired by Ochiko's President Matsudo's Ambition"
 narrative,"You are a scientist working on shrinking research, when something goes wrong leaving you shrunken. Now your only hope is getting the attention of your young cross-dressing assistant."
 time_to_complete,
-tags,Fb/m|Vroid studio|Femboy|Miniguy
+tags,Femboy|Miniguy|Vroid studio
+interactions,Femboy/male
 development_status,Completed
 pricing_model,Free
 game_engine,Godot
@@ -14,7 +15,7 @@ mechanic_rating,1
 mechanics_description,
 animation_rating,
 size_focus,3
-game_links,Official CN: https://www.patreon.com/Kitamiya/posts/shi-yan-v0-1-nan-135219395 Fan translation EN+CN: https://drive.google.com/drive/folders/11Knc8DXfdRp0TpfrMCgCGXJ8pnFtjGj_?usp=sharing
+game_links,https://www.patreon.com/Kitamiya/posts/shi-yan-v0-1-nan-135219395|https://drive.google.com/drive/folders/11Knc8DXfdRp0TpfrMCgCGXJ8pnFtjGj_?usp=sharing
 walkthrough,
 creator_link,https://www.patreon.com/Kitamiya
 forum_link,
@@ -27,4 +28,4 @@ filtered,yes
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

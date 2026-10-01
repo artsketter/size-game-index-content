@@ -4,7 +4,7 @@ original_title,
 summary,"Small prototype of a VR shrinking game with rock-paper-scissors."
 narrative,
 time_to_complete,
-tags,Vr|First person|Shrinking
+tags,VR|First person|Shrinking
 development_status,Completed
 pricing_model,Free
 game_engine,Unity
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

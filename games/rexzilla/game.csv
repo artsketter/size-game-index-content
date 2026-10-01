@@ -4,7 +4,8 @@ original_title,
 summary,"Isometric turn-based stealth game with dinosaur characters Time to Complete: ∞ endless"
 narrative,
 time_to_complete,
-tags,M/m|Cruel|Destruction|Furry/anthro|Giant|Stealth
+tags,Giant|Cruel|Destruction|Furry/anthro|Stealth
+interactions,Male/male
 development_status,Completed
 pricing_model,Free
 game_engine,GameMaker
@@ -27,4 +28,4 @@ filtered,yes
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp|image.webp|image1.webp

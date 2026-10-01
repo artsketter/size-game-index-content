@@ -4,7 +4,7 @@ original_title,
 summary,"Simple scene selector game with “normal”,”small” and “tiny” size modes with pov options"
 narrative,"You are whisked away to a pocket world built to contain a dangerous succubus who feeds on your energy in your new relationship as her older brother"
 time_to_complete,
-tags,Pov|Miniguy|Shrinking
+tags,Miniguy|POV|Shrinking
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MZ
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp

@@ -2,9 +2,9 @@ field,value
 title,The App
 original_title,
 summary,
-narrative,"You are accidentally uploaded to your friend’s VR simulation game as a tiny"
+narrative,"You are accidentally uploaded to your friend's VR simulation game as a tiny"
 time_to_complete,
-tags,Rpg|Adventure|Highschool|Miniguy
+tags,Miniguy|Adventure|Highschool|RPG
 development_status,In Development
 pricing_model,Freeware with Early Access
 game_engine,RPGMAKER MZ
@@ -27,4 +27,4 @@ filtered,no
 contains_ai,no
 entry_last_updated,2026-09-30
 creation_time,2026-09-30
-thumbnails,
+thumbnails,thumb.webp
