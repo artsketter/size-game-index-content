@@ -1,3 +1,4 @@
 editor_config.json
-Changes.txt
-Changelog.txt
+*.txt
+tools/GameIndexer.exe
+tools/updates
