@@ -17,11 +17,8 @@ Currently included fields: title, original_title, summary, narrative, time_to_co
 
 Thumbnails: .jpg/.png/.webp work. The first one listed is the gallery thumbnail.
 
-## md2csv.exe
+## GameIndexEditor.exe
 
-Used to convert notion markdown files from the size archive into .csv format with the correct formatting. Drag-and-drop any number of markdown files onto the executable and they will be deposited into appropriately named folders and formatted directly for use on the site.
-
-## webp_drop.exe
-
-Used to compress image files into .webp format to save space. Drag-and-drop any number of images onto the executable to convert.
-`config.ini` contains additional parameters for controlling the output.
+Batch csv processor with a variety of tools to manage data for all games in the collection at the same time, with a cached list of tag types for easy access.
+Contains webp compressor, search/replace and tag moving function.
+Changes logged to `Changes.txt`, simplified changes logged to `Changelog.txt` for future commit descriptions.
