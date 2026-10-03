@@ -1,10 +1,10 @@
 field,value
 title,Pardon the Prick! A Mosquito Sneaks into the Inn
 original_title,ぷすっと失礼します。～蚊、宿に忍び込む～
-summary,"Mister Mosquito style game about stinging an unaware girl"
+summary,Mister Mosquito style game about stinging an unaware girl
 narrative,
 time_to_complete,
-tags,Mini|Unaware
+tags,Unaware
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2026-08-04
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|image.webp
+size_category,Mini

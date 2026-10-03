@@ -4,7 +4,7 @@ original_title,
 summary,"Short body exploration game with tiny mite battles, contains skin/pore/nostril exploration."
 narrative,"Hyoro-kun is constantly teased by his Gal Senpai. After she spills some strange juice on him, he is reduced to microscopic size, and forced to roam her body while she takes a nap."
 time_to_complete,
-tags,Exploration|Micro
+tags,Exploration
 development_status,Discontinued
 pricing_model,Membership Site
 game_engine,RPGMAKER MZ
@@ -25,6 +25,7 @@ release_date,2022-03-03
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Micro

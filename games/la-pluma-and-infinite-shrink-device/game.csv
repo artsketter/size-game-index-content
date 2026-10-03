@@ -1,10 +1,10 @@
 field,value
 title,La Pluma and Infinite Shrink Device
 original_title,羽毛筆與無盡縮小裝置
-summary,"Short sequence of micro minigames with renders of La Pluma from Arknights."
+summary,Short sequence of micro minigames with renders of La Pluma from Arknights.
 narrative,"After catching you trying to steal something, La Pluma shrinks you down until you are a speck on her foot."
 time_to_complete,
-tags,Micro|Shrinking|Vroid studio
+tags,Shrinking|Vroid studio
 development_status,Completed
 pricing_model,Free
 game_engine,Godot
@@ -25,6 +25,7 @@ release_date,2025-11-14
 languages,Chinese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Micro

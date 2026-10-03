@@ -1,10 +1,10 @@
 field,value
 title,Dust Hero
 original_title,
-summary,"Micro sidescroller adventure game made as a collaboration between Kitamiya and JellyTea."
+summary,Micro sidescroller adventure game made as a collaboration between Kitamiya and JellyTea.
 narrative,"Your character comes from a world where heroes are trained before being sent to save other worlds. While in transit to a “Normal” difficulty world, you are flicked away, and the world is destroyed by a giant girl. The hero wakes up on another world, confused by his surroundings, but decides to venture forth into the world with the help of his AI assistant."
 time_to_complete,<30 minutes
-tags,Vroid studio|Adventure|Micro
+tags,Vroid studio|Adventure
 development_status,Discontinued
 pricing_model,Free
 game_engine,Godot
@@ -25,6 +25,7 @@ release_date,2026-03-07
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Micro

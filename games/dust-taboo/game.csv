@@ -1,10 +1,10 @@
 field,value
 title,Dust Taboo
 original_title,
-summary,"Adventure game where you explore a shrine as a micro while avoiding the shrine maidens."
+summary,Adventure game where you explore a shrine as a micro while avoiding the shrine maidens.
 narrative,"You are invited by your friend Rika to investigate a shrine for your summer project. While making a heap of prayers at a statue, the goddess decides to punish you for your greed, shrinking you down to the size of a speck of dust. In order to return to your previous size you will need to pass several “trials” where you survive encounters with the shrine’s maidens."
 time_to_complete,
-tags,Micro|Adventure|Unaware|Vroid studio
+tags,Adventure|Unaware|Vroid studio
 development_status,Completed
 pricing_model,Free
 game_engine,Godot
@@ -25,6 +25,7 @@ release_date,2025-05-10
 languages,Chinese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Micro

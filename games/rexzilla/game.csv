@@ -1,10 +1,10 @@
 field,value
 title,Rexzilla
 original_title,
-summary,"Isometric turn-based stealth game with dinosaur characters Time to Complete: ∞ endless"
+summary,Isometric turn-based stealth game with dinosaur characters Time to Complete: ∞ endless
 narrative,
 time_to_complete,
-tags,Giant|Cruel|Destruction|Furry/anthro|Stealth
+tags,Cruel|Destruction|Furry/anthro|Stealth
 interactions,Male/male
 development_status,Completed
 pricing_model,Free
@@ -12,7 +12,7 @@ game_engine,GameMaker
 art_rating,3
 main_art_style,3D Render
 mechanic_rating,4
-mechanics_description,"Avoid the giant character while collecting smarties. You get one move per turn and the giant gets five. Run far or sneak nearby to hide inside the destructible houses."
+mechanics_description,Avoid the giant character while collecting smarties. You get one move per turn and the giant gets five. Run far or sneak nearby to hide inside the destructible houses.
 animation_rating,4
 size_focus,3
 game_links,https://www.furaffinity.net/view/12723378/
@@ -26,6 +26,7 @@ release_date,
 languages,English
 filtered,yes
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|image.webp|image1.webp
+size_category,Giant

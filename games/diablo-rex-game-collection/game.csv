@@ -1,10 +1,10 @@
 field,value
 title,Diablo Rex Game Collection
 original_title,
-summary,"Collection of various dinosaur game prototypes focused on crush content"
+summary,Collection of various dinosaur game prototypes focused on crush content
 narrative,
 time_to_complete,
-tags,Cruel|Furry/anthro|Giant|Playable giant
+tags,Cruel|Furry/anthro|Playable giant
 development_status,Completed
 pricing_model,Free
 game_engine,GameMaker
@@ -25,6 +25,7 @@ release_date,
 languages,English
 filtered,yes
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giant
