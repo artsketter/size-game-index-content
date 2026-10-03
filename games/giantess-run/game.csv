@@ -1,10 +1,10 @@
 field,value
 title,Giantess Run
 original_title,
-summary,"Endless runner game with unlockable gts illustrations"
+summary,Endless runner game with unlockable gts illustrations
 narrative,
 time_to_complete,
-tags,Giantess|Arcade|Furry/anthro|Platformer
+tags,Arcade|Furry/anthro|Platformer
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Godot
@@ -25,6 +25,7 @@ release_date,2021-05-26
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

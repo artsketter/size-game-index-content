@@ -1,10 +1,10 @@
 field,value
 title,Chloe: Giantess Chaos
 original_title,
-summary,"Short visual novel with a variety of miniguy interactions"
-narrative,"You suddenly shrink while visiting your tomboy friend Chloe at her rock band’s gig. Time to Complete: <20 minutes"
+summary,Short visual novel with a variety of miniguy interactions
+narrative,You suddenly shrink while visiting your tomboy friend Chloe at her rock band’s gig. Time to Complete: <20 minutes
 time_to_complete,
-tags,Miniguy|Visual novel
+tags,Visual novel
 development_status,Completed
 pricing_model,Free
 game_engine,Ren'Py
@@ -25,6 +25,7 @@ release_date,2024-12-06
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

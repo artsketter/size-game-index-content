@@ -5,7 +5,7 @@ summary,"Miniguy exploration game with minimal RPG elements. Explore a highschoo
 (Tip: The black screen image in the english version is not loaded properly. Create a duplicate of the black screen image inside the pictures folder and name it “黒画面.png” to avoid a loading bug)"
 narrative,"You wake up shrunk to 3cm inside of a highschool, and have to find 10 hidden items in order to return to your normal size. Girls you encounter mistake you for a bug and attempt to trample you."
 time_to_complete,
-tags,Miniguy|Exploration|Highschool
+tags,Exploration|Highschool
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,RPGMAKER MV
@@ -26,6 +26,7 @@ release_date,2021-02-08
 languages,Japanese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

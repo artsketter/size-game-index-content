@@ -1,10 +1,10 @@
 field,value
 title,Emily: A Size Story
 original_title,
-summary,"Miniguy visual novel with a handful of branching scenarios."
+summary,Miniguy visual novel with a handful of branching scenarios.
 narrative,"While visiting your friend Emily, you unexplicably shrink while she is distracted. You’ll have to get her attention somehow."
 time_to_complete,
-tags,Miniguy|Unaware|Visual novel
+tags,Unaware|Visual novel
 development_status,Completed
 pricing_model,Free
 game_engine,Ren'Py
@@ -25,6 +25,7 @@ release_date,2023-11-22
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

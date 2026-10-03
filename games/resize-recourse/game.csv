@@ -1,10 +1,10 @@
 field,value
 title,Resize Recourse
 original_title,
-summary,"Minigirl RPG with various types of gameplay"
+summary,Minigirl RPG with various types of gameplay
 narrative,
 time_to_complete,
-tags,Minigirl|RPG|Minigames
+tags,RPG|Minigames
 interactions,Female/female
 development_status,In Development
 pricing_model,Free
@@ -26,6 +26,7 @@ release_date,2025-06-14
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigirl

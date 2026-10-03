@@ -1,10 +1,10 @@
 field,value
 title,Shrink High Gaiden: The Legend of Hanpane Island
 original_title,
-summary,"Spinoff sequel of Shrink High"
+summary,Spinoff sequel of Shrink High
 narrative,
 time_to_complete,
-tags,Miniguy|Adventure|RPG|Highschool
+tags,Adventure|RPG|Highschool
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,RPGMAKER VX
@@ -25,6 +25,7 @@ release_date,2013-08-09
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

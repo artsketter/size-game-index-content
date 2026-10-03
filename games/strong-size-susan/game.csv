@@ -1,10 +1,10 @@
 field,value
 title,Strong Size Susan
 original_title,
-summary,"Miniguy visual novel with animated unaware sequences"
+summary,Miniguy visual novel with animated unaware sequences
 narrative,"You have successfully invented a shrinking device which also functions as a teleporter, but while testing it a core component gets lost inside a gym, leaving you stuck at tiny size until you can retrieve it. To your dismay, a girl enters the gym, and you find yourself unable to teleport away from her, meaning the component must be somewhere on her body."
 time_to_complete,<20 minutes
-tags,Miniguy|Unaware|Visual novel
+tags,Unaware|Visual novel
 development_status,Completed
 pricing_model,Membership Site
 game_engine,Ren'Py
@@ -25,6 +25,7 @@ release_date,2026-02-13
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

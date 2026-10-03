@@ -1,10 +1,10 @@
 field,value
 title,A VOYAGE TO BROBDINGNAG
 original_title,
-summary,"Visual novel with gts illustrations"
-narrative,"One of Gulliver’s companions Mamesuke ends up on an island inhabited by giant women after a storm blew them off course from Japan."
+summary,Visual novel with gts illustrations
+narrative,One of Gulliver’s companions Mamesuke ends up on an island inhabited by giant women after a storm blew them off course from Japan.
 time_to_complete,
-tags,Gentle|Miniguy|Visual novel
+tags,Gentle|Visual novel
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Adobe AIR
@@ -25,6 +25,7 @@ release_date,2011-12-08
 languages,Japanese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

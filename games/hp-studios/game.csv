@@ -1,10 +1,10 @@
 field,value
 title,HP Studios
 original_title,
-summary,"Meta miniguy adventure game about working at the studio that makes “The App RPG”. Contains several types of minigames with unaware giantesses"
+summary,Meta miniguy adventure game about working at the studio that makes “The App RPG”. Contains several types of minigames with unaware giantesses
 narrative,"After starting a new job as a game tester at HP game studios you are shrunken by a technical malfunction during a storm. The other employees are unaware, but finding traces of other tinies while trying to get their attention you realise this is not the first time this has happened. Something deeper is afoot at this studio."
 time_to_complete,
-tags,Miniguy|Unaware
+tags,Unaware
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MZ
@@ -25,6 +25,7 @@ release_date,2024-10-13
 languages,English|Chinese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

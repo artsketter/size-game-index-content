@@ -4,7 +4,7 @@ original_title,縮小研究部
 summary,
 narrative,
 time_to_complete,
-tags,Exploration|Highschool|Miniguy
+tags,Exploration|Highschool
 development_status,Completed
 pricing_model,Free
 game_engine,Wolf RPG
@@ -25,6 +25,7 @@ release_date,
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

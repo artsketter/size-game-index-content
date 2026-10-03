@@ -1,10 +1,10 @@
 field,value
 title,Experiment 34
 original_title,
-summary,"Visual novel style adventure game on a school campus with a variety of miniguy scenarios."
+summary,Visual novel style adventure game on a school campus with a variety of miniguy scenarios.
 narrative,"Years after a mysterious event caused 60% of the world’s population to shrink (all men and some women), you are taking part in a social experiment to reintegrate the shrunken people with the giant girls."
 time_to_complete,
-tags,Miniguy|Visual novel
+tags,Visual novel
 development_status,In Development
 pricing_model,Freeware with Early Access
 game_engine,RPGMAKER MZ
@@ -25,6 +25,7 @@ release_date,2025-02-05
 languages,English|Chinese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

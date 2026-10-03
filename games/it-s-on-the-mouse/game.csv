@@ -1,10 +1,10 @@
 field,value
 title,It’s On The Mouse
 original_title,
-summary,"Run a cafe as a group of tiny girls with various abilities."
+summary,Run a cafe as a group of tiny girls with various abilities.
 narrative,
 time_to_complete,
-tags,Management|Minigirl|Platformer|Sfw
+tags,Management|Platformer|Sfw
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2025-04-17
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|gameplay.webp
+size_category,Minigirl

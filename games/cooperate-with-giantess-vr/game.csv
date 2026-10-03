@@ -4,7 +4,7 @@ original_title,
 summary,
 narrative,
 time_to_complete,
-tags,Miniguy|VR
+tags,VR
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2021-12-02
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

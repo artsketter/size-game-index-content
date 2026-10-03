@@ -1,10 +1,10 @@
 field,value
 title,The Arc
 original_title,
-summary,"Short visual novel with giantess scenes"
-narrative,"You are a tiny elf on a pilgrimage to the giant trashcan to save your village."
+summary,Short visual novel with giantess scenes
+narrative,You are a tiny elf on a pilgrimage to the giant trashcan to save your village.
 time_to_complete,
-tags,Cruel|Miniguy|Visual novel
+tags,Cruel|Visual novel
 development_status,Paused
 pricing_model,Premium Purchase
 game_engine,Ren'Py
@@ -25,6 +25,7 @@ release_date,2022-11-06
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

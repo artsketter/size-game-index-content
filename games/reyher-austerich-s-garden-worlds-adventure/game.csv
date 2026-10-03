@@ -1,10 +1,10 @@
 field,value
 title,Reyher Austerich's Garden Worlds Adventure
 original_title,
-summary,"Giantess destruction sim with arcade-style gameplay where you use various body parts to destroy villages"
+summary,Giantess destruction sim with arcade-style gameplay where you use various body parts to destroy villages
 narrative,"The Goblin Legion has invaded a neighboring kingdom, and transformed their villages into military footholds. Take control of giant dragon-girl VTuber “Reya Österreich” and her friends to destroy these captured villages."
 time_to_complete,
-tags,Destruction|Giantess|Playable gts|Simulation
+tags,Destruction|Playable gts|Simulation
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2025-08-10
 languages,Chinese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

@@ -4,7 +4,7 @@ original_title,
 summary,
 narrative,
 time_to_complete,
-tags,Highschool|Miniguy
+tags,Highschool
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MV
@@ -25,6 +25,7 @@ release_date,2019-03-17
 languages,Chinese|English|Spanish
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

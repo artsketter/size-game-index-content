@@ -4,6 +4,7 @@ original_title,Original Title of the game
 summary,This is the game summary
 narrative,This is the narrative.
 time_to_complete,5-10 hours
+size_category,Miniguy|Giantess
 tags,Puzzle|Adventure
 development_status,Completed
 pricing_model,Free
@@ -15,7 +16,7 @@ mechanics_description,This is a description of unusual game mechanics in the gam
 animation_rating,3
 size_focus,2
 game_links,https://example.com/lantern-harbour|https://example.org/mirror
-walkthrough,
+walkthrough,walkthrough.pdf
 creator_link,https://example.com/studio
 forum_link,https://example.com/forum/thread
 authors,Example Studio

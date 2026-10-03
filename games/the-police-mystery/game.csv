@@ -1,10 +1,10 @@
 field,value
 title,The Police Mystery
 original_title,
-summary,"Extended version of Police Investigation with different character models"
-narrative,"Someone has shrunken down the men of the police department. It’s up to you to save them and find the culprit."
+summary,Extended version of Police Investigation with different character models
+narrative,Someone has shrunken down the men of the police department. It’s up to you to save them and find the culprit.
 time_to_complete,
-tags,Asset flip|Exploration|Miniguy|Unaware
+tags,Asset flip|Exploration|Unaware
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2023-10-31
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|gameplay.webp
+size_category,Miniguy

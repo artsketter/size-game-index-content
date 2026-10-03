@@ -1,10 +1,10 @@
 field,value
 title,Giantess Mini Game Prototype
 original_title,
-summary,"Control a jet in a small sandbox environment with a giantess"
+summary,Control a jet in a small sandbox environment with a giantess
 narrative,
 time_to_complete,
-tags,Giantess|Prototype|Sfw
+tags,Prototype|Sfw
 development_status,Discontinued
 pricing_model,Free (DEMO)
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2021-12-18
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

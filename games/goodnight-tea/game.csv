@@ -1,10 +1,10 @@
 field,value
 title,Goodnight Tea
 original_title,
-summary,"Short game about helping your friends before heading off to bed"
-narrative,"You are a sleepy fairy girl who wants to say goodnight to her larger friends"
+summary,Short game about helping your friends before heading off to bed
+narrative,You are a sleepy fairy girl who wants to say goodnight to her larger friends
 time_to_complete,
-tags,Minigirl|Gentle
+tags,Gentle
 interactions,Female/female
 development_status,Completed
 pricing_model,Free
@@ -26,6 +26,7 @@ release_date,2022-04-05
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigirl

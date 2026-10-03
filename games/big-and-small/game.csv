@@ -1,10 +1,10 @@
 field,value
 title,Big and Small
 original_title,
-summary,"Sidescroller arcade game where you try to survive as a giantess while under attack by the army"
+summary,Sidescroller arcade game where you try to survive as a giantess while under attack by the army
 narrative,
 time_to_complete,
-tags,Giantess|Arcade|Playable gts
+tags,Arcade|Playable gts
 development_status,Completed
 pricing_model,Free
 game_engine,The Games Factory
@@ -25,6 +25,7 @@ release_date,
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

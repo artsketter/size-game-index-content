@@ -1,10 +1,10 @@
 field,value
 title,Giant Girl Attack
 original_title,
-summary,"You have 30 seconds to collect items around a map in order to defeat an encroaching giantess"
+summary,You have 30 seconds to collect items around a map in order to defeat an encroaching giantess
 narrative,"You play as Ran Narhaya, the commander of a special forces team tasked with taking down unknown invaders."
 time_to_complete,
-tags,Giantess
+tags,
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MZ
@@ -25,6 +25,7 @@ release_date,2025-08-23
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

@@ -1,10 +1,10 @@
 field,value
 title,Project Fumifumi
 original_title,ふみふみるなな
-summary,"Proof of concept giantess endurance game with three variations of a single loss scenario."
+summary,Proof of concept giantess endurance game with three variations of a single loss scenario.
 narrative,"It’s a full moon tonight, and your “sister” wants to go see it, claiming to be from the moon with special powers."
 time_to_complete,
-tags,Giantess
+tags,
 development_status,Discontinued
 pricing_model,Membership Site
 game_engine,RPGMAKER MZ
@@ -25,6 +25,7 @@ release_date,2021-08-14
 languages,Japanese
 filtered,yes
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

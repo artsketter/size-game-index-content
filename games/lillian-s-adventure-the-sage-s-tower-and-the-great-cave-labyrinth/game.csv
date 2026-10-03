@@ -4,7 +4,7 @@ original_title,
 summary,
 narrative,
 time_to_complete,
-tags,Action|Minigts|Platformer
+tags,Action|Platformer
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,
@@ -25,6 +25,7 @@ release_date,2020-09-13
 languages,Japanese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigts

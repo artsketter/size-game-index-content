@@ -4,7 +4,7 @@ original_title,
 summary,
 narrative,
 time_to_complete,
-tags,Furry/anthro|Giantess|Minigts|Shooter|Sidescroller
+tags,Furry/anthro|Shooter|Sidescroller
 development_status,Paused
 pricing_model,Membership Site
 game_engine,GameMaker
@@ -25,6 +25,7 @@ release_date,2022-07-05
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|image.webp|gameplay.webp
+size_category,Giantess|Minigts

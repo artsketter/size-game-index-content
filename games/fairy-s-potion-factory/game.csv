@@ -1,10 +1,10 @@
 field,value
 title,Fairy's Potion Factory
 original_title,
-summary,"Flash-style simulation game where you mix potions by collecting fluids from fairies."
+summary,Flash-style simulation game where you mix potions by collecting fluids from fairies.
 narrative,"You’ve opened up a potion shop, but it was a financial disaster. Unable to pay your debts, and and your wits’ end, you encounter a fairy, who helps you acquire some “rare ingredients”."
 time_to_complete,
-tags,Minigirl|Simulation
+tags,Simulation
 interactions,Male/female
 development_status,Completed
 pricing_model,Premium Purchase
@@ -26,6 +26,7 @@ release_date,2025-04-02
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigirl

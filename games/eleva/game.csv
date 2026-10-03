@@ -2,9 +2,9 @@ field,value
 title,Eleva
 original_title,
 summary,"Short, linear visual novel about a giantess hero"
-narrative,"The hero Eleva is approached by a salesperson about promoting her brand with a new movie. She confronts him about the things she has heard him say about her thanks to her superhuman hearing."
+narrative,The hero Eleva is approached by a salesperson about promoting her brand with a new movie. She confronts him about the things she has heard him say about her thanks to her superhuman hearing.
 time_to_complete,
-tags,Giantess|Visual novel
+tags,Visual novel
 interactions,Female/male
 development_status,Completed
 pricing_model,Free
@@ -26,6 +26,7 @@ release_date,2025-09-02
 languages,Chinese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

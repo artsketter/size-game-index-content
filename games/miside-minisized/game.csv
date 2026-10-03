@@ -1,10 +1,10 @@
 field,value
 title,MiSide: MiniSized
 original_title,
-summary,"Game made as part of an MMD animation series by RemKT. Includes a handful of time-based minigames."
+summary,Game made as part of an MMD animation series by RemKT. Includes a handful of time-based minigames.
 narrative,"The player wakes up inside MiSide version 1.025D, where the version plays like a 2D RPG. Having lost your version ring, you’ll need to appease 2D Mita to get it back."
 time_to_complete,
-tags,Miniguy|Minigames|Shrinking
+tags,Minigames|Shrinking
 interactions,Female/male
 development_status,Completed
 pricing_model,Freeware with Early Access
@@ -26,6 +26,7 @@ release_date,2025-07-08
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

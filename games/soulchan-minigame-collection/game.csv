@@ -4,7 +4,7 @@ original_title,
 summary,"Collection of arcade-style giantess battle minigames, most games are free, with an uncensored version available for purchase."
 narrative,
 time_to_complete,<5 minutes
-tags,Arcade|Boss battler|Giantess
+tags,Arcade|Boss battler
 development_status,In Development
 pricing_model,Premium Purchase
 game_engine,GDevelop
@@ -25,6 +25,7 @@ release_date,2024-05-15
 languages,Japanese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|image.webp|image1.webp|image2.webp|image3.webp
+size_category,Giantess

@@ -1,10 +1,10 @@
 field,value
 title,Toetally: Shrunk with Marissa
 original_title,
-summary,"Short text adventure game with illustrations by Guireyart"
+summary,Short text adventure game with illustrations by Guireyart
 narrative,"You are shrunk as part of an experiment, with Marissa being in charge. She asks you for a couple favors while you are shrunken."
 time_to_complete,
-tags,Miniguy|Text adventure
+tags,Text adventure
 development_status,Completed
 pricing_model,Free
 game_engine,Quest
@@ -25,6 +25,7 @@ release_date,2021-10-30
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

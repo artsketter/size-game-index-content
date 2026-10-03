@@ -1,10 +1,10 @@
 field,value
 title,Giant Girl Club
 original_title,
-summary,"Adventure game with many yandere gts scenarios"
+summary,Adventure game with many yandere gts scenarios
 narrative,"While returning your crush Nozomi’s train pass, she ends up coercing you into joining the Giant Girl Club, in which girls play around with highly detailed model cities. Your mind is transferred to a tiny copy of yourself inside the city."
 time_to_complete,
-tags,Miniguy|Adventure|Cruel|Highschool
+tags,Adventure|Cruel|Highschool
 interactions,Female/male
 development_status,Completed
 pricing_model,Freeware with Early Access
@@ -26,6 +26,7 @@ release_date,2023-03-15
 languages,Chinese|English|Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

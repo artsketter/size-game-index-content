@@ -1,10 +1,10 @@
 field,value
 title,A VOYAGE TO BROBDINGNAG 2: A Voyage to Japan
 original_title,
-summary,"Sequel to https://app.notion.com/p/27a704c4333f81358455fd80d4201927?pvs=21"
+summary,Sequel to https://app.notion.com/p/27a704c4333f81358455fd80d4201927?pvs=21
 narrative,"A year after the events of the first game, Mamesuke makes his way back to Japan with the aid of new Brobdingnagian companions."
 time_to_complete,
-tags,Gentle|Miniguy|Visual novel
+tags,Gentle|Visual novel
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Adobe AIR
@@ -25,6 +25,7 @@ release_date,2011-12-09
 languages,Japanese
 filtered,yes
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

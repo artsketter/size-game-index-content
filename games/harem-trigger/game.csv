@@ -1,10 +1,10 @@
 field,value
 title,Harem Trigger!!
 original_title,
-summary,"Shooter game where you remove girls' clothes. Contains miniguy elements"
+summary,Shooter game where you remove girls' clothes. Contains miniguy elements
 narrative,
 time_to_complete,
-tags,Femdom|Miniguy|Shooter|Shrinking
+tags,Femdom|Shooter|Shrinking
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2018-12-05
 languages,Japanese|English|Chinese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

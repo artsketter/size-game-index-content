@@ -2,9 +2,9 @@ field,value
 title,Soulstream Expansive (Remake)
 original_title,
 summary,"Remake of Soulstream Expansive, previously a game made in Construct. Contains minigts and expansion scenarios"
-narrative,"A virus is causing women to grow and expand"
+narrative,A virus is causing women to grow and expand
 time_to_complete,
-tags,Adventure|Growth|Minigts|Platformer
+tags,Adventure|Growth|Platformer
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2020-12-27
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigts

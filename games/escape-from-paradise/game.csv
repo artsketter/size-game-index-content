@@ -1,10 +1,10 @@
 field,value
 title,Escape from Paradise
 original_title,
-summary,"Sandbox exploration game with many furry minigts scenarios"
+summary,Sandbox exploration game with many furry minigts scenarios
 narrative,
 time_to_complete,
-tags,Furry/anthro|Minigts|Femdom|Oneeshota|Sandbox
+tags,Furry/anthro|Femdom|Oneeshota|Sandbox
 development_status,Discontinued
 pricing_model,Membership Site
 game_engine,GameMaker
@@ -25,6 +25,7 @@ release_date,2010-10-02
 languages,English
 filtered,yes
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigts

@@ -1,10 +1,10 @@
 field,value
 title,Justice Devil
 original_title,
-summary,"Action RPG where you play as a shapeshifting hero who has sex with large women (?)"
+summary,Action RPG where you play as a shapeshifting hero who has sex with large women (?)
 narrative,
 time_to_complete,
-tags,Action|Minigts
+tags,Action
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Wolf RPG
@@ -25,6 +25,7 @@ release_date,2025-05-30
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigts

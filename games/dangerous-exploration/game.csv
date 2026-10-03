@@ -1,10 +1,10 @@
 field,value
 title,Dangerous Exploration
 original_title,
-summary,"Simple sandbox game in unreal"
+summary,Simple sandbox game in unreal
 narrative,
 time_to_complete,
-tags,Exploration|First person|Miniguy
+tags,Exploration|First person
 development_status,Completed
 pricing_model,Free
 game_engine,Unreal
@@ -25,6 +25,7 @@ release_date,2017-11-21
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

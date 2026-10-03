@@ -1,10 +1,10 @@
 field,value
 title,Great Rin Chan's World Adventures
 original_title,
-summary,"MMD visual novel with growth"
+summary,MMD visual novel with growth
 narrative,
 time_to_complete,
-tags,Giantess|Growth|Visual novel
+tags,Growth|Visual novel
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MZ
@@ -25,6 +25,7 @@ release_date,2021-04-12
 languages,Chinese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

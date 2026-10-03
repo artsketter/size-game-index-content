@@ -1,10 +1,10 @@
 field,value
 title,Growth Zone
 original_title,
-summary,"Sandbox/stealth game where you avoid giant characters in a variety of modes"
+summary,Sandbox/stealth game where you avoid giant characters in a variety of modes
 narrative,
 time_to_complete,
-tags,Giantess|First person|Sandbox|Stealth
+tags,First person|Sandbox|Stealth
 development_status,Completed
 pricing_model,Free
 game_engine,Unreal
@@ -25,6 +25,7 @@ release_date,2023-01-11
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

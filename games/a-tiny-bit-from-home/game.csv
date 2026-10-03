@@ -1,10 +1,10 @@
 field,value
 title,A tiny bit from home
 original_title,
-summary,"Short visual novel game with a handful of interactions with different girls. Player character is androgynous."
-narrative,"You are a small creature typically kept as a pet. Having run away from your former owner in the forest you are now trying to survive living in the city."
+summary,Short visual novel game with a handful of interactions with different girls. Player character is androgynous.
+narrative,You are a small creature typically kept as a pet. Having run away from your former owner in the forest you are now trying to survive living in the city.
 time_to_complete,
-tags,Miniguy|Unbirth|Vore
+tags,Unbirth|Vore
 interactions,Female/unspecified
 development_status,Discontinued
 pricing_model,Free (DEMO)
@@ -26,6 +26,7 @@ release_date,2021-04-11
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

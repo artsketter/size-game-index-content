@@ -1,10 +1,10 @@
 field,value
 title,8 Nights’ Patrol
 original_title,8夜回り
-summary,"Short “puzzle/interogation” game which plays more like a scenario viewer."
+summary,Short “puzzle/interogation” game which plays more like a scenario viewer.
 narrative,"You are a night watchman, interrogating suspicious townspeople during your patrols to make sure they aren’t up to anything perverted."
 time_to_complete,
-tags,Minigts|Sex
+tags,Sex
 interactions,Female/male
 development_status,Completed
 pricing_model,Premium Purchase
@@ -26,6 +26,7 @@ release_date,2025-09-20
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigts

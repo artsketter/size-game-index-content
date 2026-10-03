@@ -1,10 +1,10 @@
 field,value
 title,A Shrinking Feeling
 original_title,
-summary,"3D sandbox in unreal with internal models"
+summary,3D sandbox in unreal with internal models
 narrative,
 time_to_complete,
-tags,Exploration|First person|Miniguy
+tags,Exploration|First person
 development_status,Discontinued
 pricing_model,Free (DEMO)
 game_engine,Unreal
@@ -25,6 +25,7 @@ release_date,2024-10-05
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

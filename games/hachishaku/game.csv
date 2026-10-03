@@ -1,10 +1,10 @@
 field,value
 title,Hachishaku
 original_title,
-summary,"Simple “stealth” game where you explore a village while avoiding a patrolling Hasshaku-sama from Japanese folklore. Contains customization options."
+summary,Simple “stealth” game where you explore a village while avoiding a patrolling Hasshaku-sama from Japanese folklore. Contains customization options.
 narrative,"Chado-san is searching for answers about why his grandparents sent him away as a child, and about his childhood friend he can no longer remember. He returns to his grandparent’s abandoned village to search for clues in their old home."
 time_to_complete,
-tags,Amazon|Exploration|Horror|Stealth
+tags,Exploration|Horror|Stealth
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unreal
@@ -25,6 +25,7 @@ release_date,2025-05-01
 languages,Chinese|English|Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Amazon

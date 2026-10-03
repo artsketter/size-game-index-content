@@ -1,10 +1,10 @@
 field,value
 title,Little Difficulty Reboot
 original_title,
-summary,"Remake of Little Difficulty with more complex combat system and slightly improved koikatsu renders"
+summary,Remake of Little Difficulty with more complex combat system and slightly improved koikatsu renders
 narrative,"You are a hero/heroine training to grow stronger, when a fairy challenges you to fight using shrinking magic as a “difficulty modifier”"
 time_to_complete,
-tags,Miniguy|Minigirl|RPG
+tags,RPG
 interactions,Female/male|Female/female
 development_status,In Development
 pricing_model,Freeware with Early Access
@@ -26,6 +26,7 @@ release_date,2025-08-03
 languages,English|Chinese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy|Minigirl

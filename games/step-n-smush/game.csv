@@ -1,10 +1,10 @@
 field,value
 title,Step ‘N Smush
 original_title,
-summary,"Prototype for a 2D giantess destruction sim."
+summary,Prototype for a 2D giantess destruction sim.
 narrative,
 time_to_complete,<5 minutes
-tags,Giantess|Arcade|Destruction|Playable gts
+tags,Arcade|Destruction|Playable gts
 development_status,In Development
 pricing_model,Free
 game_engine,Godot
@@ -25,6 +25,7 @@ release_date,2026-03-28
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|image.webp|gameplay.webp
+size_category,Giantess

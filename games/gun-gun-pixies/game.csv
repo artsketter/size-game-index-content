@@ -1,10 +1,10 @@
 field,value
 title,Gun Gun Pixies
 original_title,
-summary,"Minigirl 3rd person shooter with stealth elements"
-narrative,"Kame-pon and Bee-tan are two military school dropouts from the planet Pandemo who are sent to earth to observe human behavior. The pair is tasked to stay at a girl’s dormitory to study how humans relate to one another and build relationships."
+summary,Minigirl 3rd person shooter with stealth elements
+narrative,Kame-pon and Bee-tan are two military school dropouts from the planet Pandemo who are sent to earth to observe human behavior. The pair is tasked to stay at a girl’s dormitory to study how humans relate to one another and build relationships.
 time_to_complete,
-tags,Minigirl|Highschool|Shooter
+tags,Highschool|Shooter
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2019-09-08
 languages,Japanese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigirl

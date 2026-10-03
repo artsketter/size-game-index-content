@@ -1,10 +1,10 @@
 field,value
 title,Home Sweet Home
 original_title,
-summary,"Miniguy visual novel with branching endings"
+summary,Miniguy visual novel with branching endings
 narrative,"During a visit home from college, you suddenly collapse and awaken to find yourself shrunken down to an inch tall. You'll have to get the attention of your family before you can find out what happened to you."
 time_to_complete,
-tags,Miniguy|Visual novel
+tags,Visual novel
 development_status,Completed
 pricing_model,Free
 game_engine,Electron
@@ -25,6 +25,7 @@ release_date,2022-05-21
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

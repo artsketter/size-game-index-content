@@ -1,10 +1,10 @@
 field,value
 title,Adventurer’s Inn
 original_title,冒険者の宿
-summary,"Miniguy vore adventure game where you explore an inn."
+summary,Miniguy vore adventure game where you explore an inn.
 narrative,"After being cursed during battle, Moru is shrunken down to tiny size by a strange fairy, who further curses him to be eaten by any girl he encounters."
 time_to_complete,
-tags,Miniguy|Adventure|Vore
+tags,Adventure|Vore
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER VX
@@ -25,6 +25,7 @@ release_date,
 languages,English|Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|image.webp
+size_category,Miniguy

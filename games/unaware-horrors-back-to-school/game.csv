@@ -1,10 +1,10 @@
 field,value
 title,Unaware Horrors: Back to School
 original_title,
-summary,"3D sandbox game inside a classroom with a handful of interactions with 3 gts characters"
+summary,3D sandbox game inside a classroom with a handful of interactions with 3 gts characters
 narrative,"Your teacher has shrunken you down as a punishment, and you need to find new batteries for her shrinking gun after the last ones ran out"
 time_to_complete,
-tags,Highschool|Miniguy|Sandbox
+tags,Highschool|Sandbox
 development_status,Completed
 pricing_model,Obsolete Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2019-04-15
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|gameplay.webp
+size_category,Miniguy

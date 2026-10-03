@@ -1,10 +1,10 @@
 field,value
 title,Size Effect
 original_title,
-summary,"Short adventure game demo with renders using characters from Mass Effect and Nier"
+summary,Short adventure game demo with renders using characters from Mass Effect and Nier
 narrative,"You are the captain of a spaceship, and your ship is boarded by aliens. When confronting them you are shrunk and kidnapped"
 time_to_complete,
-tags,Adventure|Miniguy
+tags,Adventure
 development_status,Completed
 pricing_model,Free (DEMO)
 game_engine,RPGMAKER MV
@@ -25,6 +25,7 @@ release_date,2020-11-10
 languages,English|Russian
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

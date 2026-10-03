@@ -1,17 +1,17 @@
 field,value
 title,Stomping Friends
 original_title,
-summary,"Minigirl footstomp dodging game with furry characters and narrative illustrations"
+summary,Minigirl footstomp dodging game with furry characters and narrative illustrations
 narrative,
 time_to_complete,
-tags,Arcade|Furry/anthro|Minigirl
+tags,Arcade|Furry/anthro
 development_status,In Development
 pricing_model,Free
 game_engine,Unity
 art_rating,4
 main_art_style,Illustration
 mechanic_rating,4
-mechanics_description,"Dodge giant feet while collecting items which progress a meter. A portal appears at certain intervals which leads to different endings for each character based on meter progress."
+mechanics_description,Dodge giant feet while collecting items which progress a meter. A portal appears at certain intervals which leads to different endings for each character based on meter progress.
 animation_rating,3
 size_focus,3
 game_links,https://rosie-shady.itch.io/stomping-friends
@@ -25,6 +25,7 @@ release_date,2025-05-09
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|gameplay.webp|image.webp
+size_category,Minigirl

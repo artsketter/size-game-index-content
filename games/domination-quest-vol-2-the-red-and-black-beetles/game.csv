@@ -1,10 +1,10 @@
 field,value
 title,Domination Quest vol.2: The Red and Black Beetles
 original_title,
-summary,"Sequel to https://app.notion.com/p/27a704c4333f81658bfdea890e132ff1?pvs=21"
+summary,Sequel to https://app.notion.com/p/27a704c4333f81658bfdea890e132ff1?pvs=21
 narrative,
 time_to_complete,
-tags,RPG|Adventure|Creature collecting|Minigts|Monstergirl|Oneeshota|Unbirth
+tags,RPG|Adventure|Creature collecting|Monstergirl|Oneeshota|Unbirth
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2023-02-09
 languages,English|Japanese
 filtered,yes
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigts

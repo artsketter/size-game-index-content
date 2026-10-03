@@ -1,10 +1,10 @@
 field,value
 title,Skyline Devourer
 original_title,
-summary,"Point-and-click arcade defense game where you feed vehicles to a giantess"
+summary,Point-and-click arcade defense game where you feed vehicles to a giantess
 narrative,
 time_to_complete,
-tags,Arcade|Giantess|Point-and-click
+tags,Arcade|Point-and-click
 development_status,Completed
 pricing_model,Free
 game_engine,GameMaker
@@ -25,6 +25,7 @@ release_date,2023-12-25
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

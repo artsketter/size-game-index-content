@@ -1,10 +1,10 @@
 field,value
 title,7 Sexy Sins
 original_title,
-summary,"On-rails bullet hell shooter with giantess background pictures"
+summary,On-rails bullet hell shooter with giantess background pictures
 narrative,"Enticed by the contents of the angel Raphael’s “Sexy Girl Photobook”, God tasks him to collect more sexy pictures of demons. Raphael will have to battle his way through the ranks of the “Demons of the Seven Sins” to destroy their clothes and armor and obtain their pictures for his collection."
 time_to_complete,
-tags,Arcade|Bullet hell|Giantess
+tags,Arcade|Bullet hell
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2019-04-26
 languages,Chinese|English|Japanese|Thai
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

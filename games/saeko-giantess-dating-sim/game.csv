@@ -1,10 +1,10 @@
 field,value
 title,Saeko: Giantess Dating Sim
 original_title,
-summary,"Visual novel game inspired by Oyayubihime where you interact with a giant girl who is keeping you and several others as pets. Includes several types of minigames."
+summary,Visual novel game inspired by Oyayubihime where you interact with a giant girl who is keeping you and several others as pets. Includes several types of minigames.
 narrative,"You have been kidnapped by Saeko, a female university student, and appointed as the new “supervisor” of her imprisoned tinies. Your decisions affect her mood, and subsequently the fate of the other tinies."
 time_to_complete,
-tags,Cruel|Horror|Minigirl|Miniguy|Point-and-click|Sfw|Visual novel
+tags,Cruel|Horror|Point-and-click|Sfw|Visual novel
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Ebitengine
@@ -25,6 +25,7 @@ release_date,2025-05-29
 languages,Japanese|English|Chinese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy|Minigirl

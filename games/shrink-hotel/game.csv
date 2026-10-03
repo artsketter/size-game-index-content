@@ -1,10 +1,10 @@
 field,value
 title,Shrink Hotel
 original_title,
-summary,"RPG game with many varied scenarios and guest artists"
+summary,RPG game with many varied scenarios and guest artists
 narrative,
 time_to_complete,
-tags,Miniguy|Adventure|RPG|Highschool
+tags,Adventure|RPG|Highschool
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MV
@@ -25,6 +25,7 @@ release_date,2019-09-08
 languages,Japanese
 filtered,yes
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|image.webp
+size_category,Miniguy

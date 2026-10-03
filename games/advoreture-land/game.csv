@@ -1,10 +1,10 @@
 field,value
 title,Advoreture Land
 original_title,
-summary,"Experimental adventure game with various types of vore"
+summary,Experimental adventure game with various types of vore
 narrative,
 time_to_complete,
-tags,Adventure|Giant|Giantess|Minigts|Vore
+tags,Adventure|Giant|Vore
 interactions,Female/male|Male/male
 development_status,In Development
 pricing_model,Free
@@ -26,6 +26,7 @@ release_date,2024-04-12
 languages,English|Japanese|Korean
 filtered,yes
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess|Minigts

@@ -1,10 +1,10 @@
 field,value
 title,Toetally: Dalvir’s Determination
 original_title,
-summary,"Short microgame about surviving from your sisters' feet"
+summary,Short microgame about surviving from your sisters' feet
 narrative,"After shrinking down, you are now seen as a pesky bug by your siblings."
 time_to_complete,
-tags,Cruel|Miniguy
+tags,Cruel
 interactions,Female/male
 development_status,Completed
 pricing_model,Free
@@ -26,6 +26,7 @@ release_date,2020-12-21
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

@@ -4,7 +4,7 @@ original_title,
 summary,"Collection of short prototypes by CodeBand1t, featuring various VR shrinking scenarios. Special thanks to bordeauxace for providing the game files."
 narrative,
 time_to_complete,
-tags,Miniguy|VR|First person|Prototype|Shrinking
+tags,VR|First person|Prototype|Shrinking
 development_status,Discontinued
 pricing_model,Free
 game_engine,Unity
@@ -25,6 +25,7 @@ release_date,2022-01-28
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

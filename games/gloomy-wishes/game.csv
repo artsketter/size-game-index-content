@@ -1,10 +1,10 @@
 field,value
 title,Gloomy Wishes
 original_title,
-summary,"Isekai RPG with many interactive gts scenarios"
+summary,Isekai RPG with many interactive gts scenarios
 narrative,"You and several others at their wits end are transported to a fantasy world for a second chance. A young woman bullied for her height wishes to become taller than everyone else, leading to the entire town being shrunken down when a mysterious power grants her wish."
 time_to_complete,
-tags,Miniguy|RPG|Cruel|Shrinking
+tags,RPG|Cruel|Shrinking
 interactions,Female/male
 development_status,Paused
 pricing_model,Freeware with Early Access
@@ -26,6 +26,7 @@ release_date,2024-02-02
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

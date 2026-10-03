@@ -1,10 +1,10 @@
 field,value
 title,Shrinking Stories
 original_title,
-summary,"Many short self-contained adventure games with a shrunken player"
+summary,Many short self-contained adventure games with a shrunken player
 narrative,"Variety of different scenarios: A king shrunken down by a witch, A boyfriend shrunken in his girlfriend’s house etc."
 time_to_complete,
-tags,Adventure|Miniguy|Unaware
+tags,Adventure|Unaware
 interactions,Female/male
 development_status,Completed
 pricing_model,Membership Site
@@ -26,6 +26,7 @@ release_date,2021-04-06
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|image.webp|image1.webp
+size_category,Miniguy

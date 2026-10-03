@@ -1,10 +1,10 @@
 field,value
 title,Pizza Runner
 original_title,
-summary,"Prototype arcade sidescroller with marvel characters"
-narrative,"Antman and the Wasp have unwittingly found themselves on a slice of She-Hulk's pizza."
+summary,Prototype arcade sidescroller with marvel characters
+narrative,Antman and the Wasp have unwittingly found themselves on a slice of She-Hulk's pizza.
 time_to_complete,
-tags,Arcade|Miniguy
+tags,Arcade
 development_status,Discontinued
 pricing_model,Free (DEMO)
 game_engine,Construct
@@ -25,6 +25,7 @@ release_date,2024-11-28
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

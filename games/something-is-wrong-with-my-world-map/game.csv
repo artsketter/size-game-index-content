@@ -1,10 +1,10 @@
 field,value
 title,Something is wrong with my World Map
 original_title,
-summary,"Short size switching puzzle game using the rpg map size trope as the core mechanic. Inspired by Alice Magic’s video: https://www.youtube.com/watch?v=5_vCtjs1bZ4"
-narrative,"Your mom sends you on an errand outside the village. Once you step out of your village you notice something strange about the scale of your surroundings. It seems that whenever you enter the world map the size you appear is your actual size."
+summary,Short size switching puzzle game using the rpg map size trope as the core mechanic. Inspired by Alice Magic’s video: https://www.youtube.com/watch?v=5_vCtjs1bZ4
+narrative,Your mom sends you on an errand outside the village. Once you step out of your village you notice something strange about the scale of your surroundings. It seems that whenever you enter the world map the size you appear is your actual size.
 time_to_complete,
-tags,Giantess|Playable gts|Puzzle|Sfw
+tags,Playable gts|Puzzle|Sfw
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MZ
@@ -25,6 +25,7 @@ release_date,2024-08-26
 languages,English|Chinese|Italian
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp|gameplay.webp|gameplay1.webp
+size_category,Giantess

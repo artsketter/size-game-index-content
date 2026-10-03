@@ -1,10 +1,10 @@
 field,value
 title,Project Reductia
 original_title,
-summary,"Short prototype of an exploration game in RPGMaker"
-narrative,"You wake up inside a giant dollhouse with no memories"
+summary,Short prototype of an exploration game in RPGMaker
+narrative,You wake up inside a giant dollhouse with no memories
 time_to_complete,
-tags,Adventure|Miniguy
+tags,Adventure
 development_status,Discontinued
 pricing_model,Free (DEMO)
 game_engine,RPGMAKER MV
@@ -25,6 +25,7 @@ release_date,2021-04-24
 languages,English|Italian
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

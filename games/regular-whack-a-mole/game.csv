@@ -1,10 +1,10 @@
 field,value
 title,Regular Whack-A-Mole!
 original_title,
-summary,"Whack-a-mole with Regular Show characters"
+summary,Whack-a-mole with Regular Show characters
 narrative,"Rigby and Eileen are on a date at the arcade, when Rigby gets mad at GBF, the manager. GBF turns Rigby into a Whack-a-mole prop, and tells Eileen to beat his highscores to turn him back to normal."
 time_to_complete,
-tags,Arcade|Miniguy|Playable gts|Point-and-click
+tags,Arcade|Playable gts|Point-and-click
 development_status,Completed
 pricing_model,Free
 game_engine,Construct
@@ -25,6 +25,7 @@ release_date,2020-08-23
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

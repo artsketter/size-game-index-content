@@ -1,17 +1,17 @@
 field,value
 title,Giantess Boss Rush
 original_title,
-summary,"Action platformer boss battle prototype"
-narrative,"You were transformed into a tiny 2D knight by giant witches and have to fight all of them to return back to normal."
+summary,Action platformer boss battle prototype
+narrative,You were transformed into a tiny 2D knight by giant witches and have to fight all of them to return back to normal.
 time_to_complete,<5 minutes
-tags,Giantess|Action|Boss battler|Furry/anthro|Platformer
+tags,Action|Boss battler|Furry/anthro|Platformer
 development_status,Discontinued
 pricing_model,Free
 game_engine,Godot
 art_rating,3
 main_art_style,Koikatsu Party Render
 mechanic_rating,2
-mechanics_description,"Fight giantess bosses by dodging their attacks and hitting them without getting caught. Dealing enough damage moves onto the next phase with different attack patterns."
+mechanics_description,Fight giantess bosses by dodging their attacks and hitting them without getting caught. Dealing enough damage moves onto the next phase with different attack patterns.
 animation_rating,4
 size_focus,3
 game_links,https://giantesslaskra.itch.io/giantess-boss-rush
@@ -25,6 +25,7 @@ release_date,2025-07-21
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Giantess

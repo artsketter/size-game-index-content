@@ -2,9 +2,9 @@ field,value
 title,SimGD
 original_title,
 summary,"Simple scene selector game with “normal”,”small” and “tiny” size modes with pov options"
-narrative,"You are whisked away to a pocket world built to contain a dangerous succubus who feeds on your energy in your new relationship as her older brother"
+narrative,You are whisked away to a pocket world built to contain a dangerous succubus who feeds on your energy in your new relationship as her older brother
 time_to_complete,
-tags,Miniguy|POV|Shrinking
+tags,POV|Shrinking
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER MZ
@@ -25,6 +25,7 @@ release_date,2019-12-08
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy

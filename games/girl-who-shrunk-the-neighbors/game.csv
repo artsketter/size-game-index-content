@@ -1,10 +1,10 @@
 field,value
 title,Girl Who Shrunk The Neighbors
 original_title,
-summary,"Asset-flip 3D sandbox game with linear story and a handful of gts interactions."
-narrative,"You and your girlfriend got mysteriously shrunk during a commotion about a noise complaint caused by your neighbour’s step sister"
+summary,Asset-flip 3D sandbox game with linear story and a handful of gts interactions.
+narrative,You and your girlfriend got mysteriously shrunk during a commotion about a noise complaint caused by your neighbour’s step sister
 time_to_complete,
-tags,Miniguy|Asset flip|Exploration|Unaware
+tags,Asset flip|Exploration|Unaware
 development_status,Completed
 pricing_model,Premium Purchase
 game_engine,Unreal
@@ -25,6 +25,7 @@ release_date,2025-03-24
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-03
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Miniguy
