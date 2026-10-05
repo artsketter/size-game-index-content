@@ -1,30 +1,32 @@
 field,value
 title,Tsumi Umi Sushi
 original_title,
-summary,"Play as the giantess in a vore-focused daily life RPG"
-narrative,"You play as an office lady working for a company which downsizes people for economic purposes. Tiny people in this world are commonly eaten and toyed with."
+summary,Play as the giantess in a vore-focused daily life sim. Contains AI-generated images.
+narrative,You play as an office lady working for a company which downsizes people for economic purposes. Tiny people in this world are commonly eaten and toyed with.
 time_to_complete,
-tags,Adventure|Playable gts|Vore
+tags,Playable gts|Vore|Voice acting|Simulation
 development_status,In Development
 pricing_model,Membership Site
 game_engine,RPGMAKER MV
-art_rating,5
+art_rating,4
 main_art_style,Illustration
 mechanic_rating,4
 mechanics_description,
-animation_rating,
+animation_rating,3
 size_focus,3
-game_links,https://patreon.com/daichi777
+game_links,https://www.patreon.com/daichi777/posts/tsumi-umi-sushi-159653579
 walkthrough,
-creator_link,
-forum_link,
+creator_link,https://www.patreon.com/cw/daichi777
+forum_link,https://aryion.com/forum/viewtopic.php?f=79&t=57771
 authors,Daichi777
-last_updated,2025-06-04
-latest_content_update,PATREON: v2.98 update
+last_updated,2026-05-30
+latest_content_update,PATREON: v3.0 update
 release_date,2019-11-29
 languages,English
 filtered,no
-contains_ai,no
-entry_last_updated,2026-09-30
+contains_ai,yes
+entry_last_updated,2026-10-05
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Minigirl|Miniguy
+interactions,Female/male|Female/female

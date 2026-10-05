@@ -11,7 +11,8 @@ game_engine,Godot
 art_rating,3
 main_art_style,No Coherent Style
 mechanic_rating,2
-mechanics_description,
+mechanics_description,"Left-click to shoot while dodging enemy attacks. Use Q, W, E or R to use a special move on a cooldown.
+Getting hit by a witch's special attacks will stun or shrink you, getting caught leads to a QTE followed by button mashing sequence."
 animation_rating,3
 size_focus,2
 game_links,https://gustrea1685.itch.io/2dvg
