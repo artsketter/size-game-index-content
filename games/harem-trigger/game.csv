@@ -12,7 +12,7 @@ art_rating,
 main_art_style,3D Render
 mechanic_rating,
 mechanics_description,
-animation_rating,
+animation_rating,3
 size_focus,1
 game_links,https://www.dlsite.com/maniax/work/=/product_id/RJ239096.html
 walkthrough,
@@ -25,7 +25,7 @@ release_date,2018-12-05
 languages,Japanese|English|Chinese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-03
+entry_last_updated,2026-10-06
 creation_time,2026-09-30
 thumbnails,thumb.webp
 size_category,Miniguy

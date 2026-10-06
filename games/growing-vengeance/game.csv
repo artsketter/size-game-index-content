@@ -13,7 +13,7 @@ art_rating,
 main_art_style,
 mechanic_rating,
 mechanics_description,
-animation_rating,
+animation_rating,0
 size_focus,3
 game_links,https://nicksav.itch.io/growing-vengeance
 walkthrough,
@@ -26,6 +26,6 @@ release_date,2020-10-09
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-06
 creation_time,2026-09-30
 thumbnails,

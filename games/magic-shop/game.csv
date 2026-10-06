@@ -13,7 +13,7 @@ art_rating,4
 main_art_style,Koikatsu Party Render
 mechanic_rating,4
 mechanics_description,Shrink to different sizes and transform into nearby objects to trigger scenes. Stamina struggle system to escape capture
-animation_rating,
+animation_rating,0
 size_focus,3
 game_links,PATREON: https://www.patreon.com/MaslinaMaster/posts/magic-shop-v0-2-146905047 FREE: https://www.patreon.com/MaslinaMaster/posts/magic-shop-0-1-136352288
 walkthrough,
@@ -26,7 +26,7 @@ release_date,2025-08-13
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-03
+entry_last_updated,2026-10-06
 creation_time,2026-09-30
 thumbnails,thumb.webp|image.webp
 size_category,Minigirl

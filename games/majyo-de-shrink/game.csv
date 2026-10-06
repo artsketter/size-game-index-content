@@ -13,7 +13,7 @@ art_rating,4
 main_art_style,Illustration
 mechanic_rating,1
 mechanics_description,
-animation_rating,
+animation_rating,0
 size_focus,3
 game_links,https://novelgame.jp/games/show/12001
 walkthrough,
@@ -26,7 +26,7 @@ release_date,2025-05-01
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-03
+entry_last_updated,2026-10-06
 creation_time,2026-09-30
 thumbnails,thumb.webp
 size_category,Miniguy|Minigirl

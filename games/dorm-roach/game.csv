@@ -1,7 +1,7 @@
 field,value
 title,Dorm Roach
 original_title,
-summary,"Cohabitate with a giantess while scavenging for resources"
+summary,Cohabitate with a giantess while scavenging for resources
 narrative,
 time_to_complete,
 tags,Visual novel
@@ -12,7 +12,7 @@ art_rating,2
 main_art_style,No Coherent Style
 mechanic_rating,2
 mechanics_description,
-animation_rating,
+animation_rating,0
 size_focus,3
 game_links,https://vndrscale.itch.io/dorm-roach
 walkthrough,
@@ -25,6 +25,6 @@ release_date,2025-02-17
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-06
 creation_time,2026-09-30
 thumbnails,thumb.webp

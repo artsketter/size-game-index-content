@@ -1,7 +1,7 @@
 field,value
 title,Dwarfing Dreams
 original_title,
-summary,"Battle-fuck style deckbuilder game with size-changing mechanics"
+summary,Battle-fuck style deckbuilder game with size-changing mechanics
 narrative,
 time_to_complete,
 tags,Battle-fuck|Card game|Growth|Shrinking
@@ -12,7 +12,7 @@ art_rating,2
 main_art_style,AI Generated Images
 mechanic_rating,4
 mechanics_description,"Build a deck mid-battle by spending various resources you generate in a shop. Cards can affect size among other stats, allowing for various synergies."
-animation_rating,
+animation_rating,0
 size_focus,3
 game_links,https://yrelreversal.itch.io/dwarfing-dreams
 walkthrough,
@@ -25,6 +25,6 @@ release_date,2025-08-01
 languages,English
 filtered,no
 contains_ai,yes
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-06
 creation_time,2026-09-30
 thumbnails,thumb.webp
