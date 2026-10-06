@@ -12,7 +12,7 @@ art_rating,3
 main_art_style,Illustration
 mechanic_rating,1
 mechanics_description,
-animation_rating,
+animation_rating,0
 size_focus,3
 game_links,https://x.com/Wafflex5t/status/2106634113159417963
 walkthrough,
@@ -25,7 +25,7 @@ release_date,2026-09-23
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-04
+entry_last_updated,2026-10-06
 creation_time,2026-10-03
 thumbnails,thumb.webp|image.webp
 size_category,Minigirl

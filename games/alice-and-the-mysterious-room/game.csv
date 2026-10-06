@@ -13,7 +13,7 @@ art_rating,3
 main_art_style,Illustration
 mechanic_rating,1
 mechanics_description,
-animation_rating,
+animation_rating,0
 size_focus,1
 game_links,https://www.fanbox.cc/@konago/posts/10941432
 walkthrough,
@@ -26,7 +26,7 @@ release_date,2025-09-14
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-03
+entry_last_updated,2026-10-06
 creation_time,2026-09-30
 thumbnails,thumb.webp
 size_category,Minigirl
