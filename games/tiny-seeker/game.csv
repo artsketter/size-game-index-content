@@ -11,7 +11,7 @@ pricing_model,Membership Site
 game_engine,Unity
 art_rating,1
 main_art_style,3D Environment
-mechanic_rating,2
+mechanic_rating,4
 mechanics_description,"Roam around a small town level, with various collectibles to find. Take pictures of girls doing different actions to fill an album. Use collected coins to upgrade your movement abilities."
 animation_rating,3
 size_focus,3
@@ -26,7 +26,7 @@ release_date,2026-10-06
 languages,Japanese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-06
+entry_last_updated,2026-10-07
 creation_time,2026-10-06
 thumbnails,thumb.webp|image.webp|image1.webp|image2.webp|image3.webp
 size_category,Minigirl
