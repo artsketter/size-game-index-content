@@ -12,7 +12,7 @@ art_rating,3
 main_art_style,
 mechanic_rating,4
 mechanics_description,
-animation_rating,
+animation_rating,0
 size_focus,3
 game_links,https://x.com/nasokare/status/2053410676589383730
 walkthrough,
@@ -25,6 +25,6 @@ release_date,2025-08-30
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-17
 creation_time,2026-09-30
 thumbnails,thumb.webp

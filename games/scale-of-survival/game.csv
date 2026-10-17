@@ -12,7 +12,7 @@ art_rating,1
 main_art_style,3D Environment
 mechanic_rating,4
 mechanics_description,
-animation_rating,
+animation_rating,1
 size_focus,3
 game_links,https://www.patreon.com/posts/scale-of-v05-147313082
 walkthrough,
@@ -25,6 +25,6 @@ release_date,2024-12-12
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-17
 creation_time,2026-09-30
 thumbnails,thumb.webp
