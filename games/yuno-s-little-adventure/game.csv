@@ -15,7 +15,7 @@ mechanic_rating,
 mechanics_description,
 animation_rating,0
 size_focus,3
-game_links,"Part1: https://mega.nz/file/LfghSDCQ#jwfn-JG9WLiGwZ8qzjwT4SXnxLbOlgTvFAxl44ilkk8 Part2: https://mega.nz/file/OWoERa5A#pG1AozmtYCGrreyBhxt5QruHCIyXV75nJzbaWG272Iw (Extraction password: Unobling) (Extract both files to the same folder, then change the “.789” extension to “.rar” and extract again)"
+game_links,https://mega.nz/file/LfghSDCQ#jwfn-JG9WLiGwZ8qzjwT4SXnxLbOlgTvFAxl44ilkk8|https://mega.nz/file/OWoERa5A#pG1AozmtYCGrreyBhxt5QruHCIyXV75nJzbaWG272Iw
 walkthrough,
 creator_link,
 forum_link,https://giantessnight.com/gnforum2012/forum.php?mod=viewthread&tid=43600
@@ -26,7 +26,9 @@ release_date,2026-08-11
 languages,Chinese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-06
+entry_last_updated,2026-10-18
 creation_time,2026-09-30
-thumbnails,thumb.webp|gameplay.webp|image.webp|image1.webp|image2.webp
+thumbnails,thumb.webp|gameplay.webp|image.webp|image2.webp|image3.webp
 size_category,Minigirl
+instructions,"(Extraction password: Unobling)
+(Extract both Mega files to the same folder, then change the "".789"" extension to "".rar"", then extract again)"
