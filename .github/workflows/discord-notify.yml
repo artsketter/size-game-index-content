@@ -8,16 +8,26 @@ jobs:
   notify:
     runs-on: ubuntu-latest
     steps:
-      - name: Post commits titled "New game added"
+      - name: Post new games to Discord
         env:
           WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
           COMMITS: ${{ toJson(github.event.commits) }}
+          PREFIX: "games/"
         run: |
           echo "$COMMITS" | jq -c '.[]' | while read -r c; do
             title=$(echo "$c" | jq -r '.message | split("\n")[0]')
-            url=$(echo "$c" | jq -r '.url')
-            if [[ "$title" == *"New game added"* ]]; then
-              jq -n --arg content "$title"$'\n'"$url" '{content: $content}' \
+            [[ "$title" == *"New game added"* ]] || continue
+
+            echo "$c" | jq -r --arg p "$PREFIX" '
+              .added[]
+              | select(startswith($p))
+              | .[($p | length):]
+              | select(contains("/"))
+              | split("/")[0]
+            ' | sort -u | while read -r folder; do
+              slug=$(jq -rn --arg f "$folder" '$f | @uri')
+              link="https://www.sizegameindex.fyi/game.html?g=${slug}"
+              jq -n --arg content "$title"$'\n'"$link" '{content: $content}' \
                 | curl -sS -H "Content-Type: application/json" -d @- "$WEBHOOK"
-            fi
+            done
           done
