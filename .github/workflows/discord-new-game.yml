@@ -1,0 +1,45 @@
+name: Discord new game notifier
+
+on:
+  push:
+    branches: [main]
+    paths: ['games/*/game.csv']
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Post new games to Discord
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          SITE_URL: https://sizegameindex.fyi
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
+        run: |
+          set -euo pipefail
+          # Which game.csv files were newly created in this push?
+          if [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            files=$(git diff-tree --root -r --no-commit-id --name-only --diff-filter=A "$AFTER" -- 'games/*/game.csv')
+          else
+            files=$(git diff --name-only --diff-filter=A "$BEFORE" "$AFTER" -- 'games/*/game.csv')
+          fi
+
+          # Nothing new (only edits): stop here
+          [ -n "$files" ] || exit 0
+
+          # Wait for GitHub's raw-file cache (about 5 min) to catch up,
+          # so the link works when people click it
+          sleep 120
+
+          printf '%s\n' "$files" | while IFS= read -r f; do
+            [ -n "$f" ] || continue
+            id=$(basename "$(dirname "$f")")
+            url="$SITE_URL/game.html?g=$(jq -rn --arg v "$id" '$v|@uri')"
+            curl -fsS -H "Content-Type: application/json" \
+              -d "$(jq -n --arg c "New game added: $url" '{content:$c}')" "$WEBHOOK"
+            sleep 1
+          done
