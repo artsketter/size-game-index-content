@@ -7,24 +7,30 @@ on:
 jobs:
   notify:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - name: Post new games to Discord
         env:
           WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_URL }}
           COMMITS: ${{ toJson(github.event.commits) }}
-          PREFIX: "games/"
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          PREFIX: "games\"
         run: |
           echo "$COMMITS" | jq -c '.[]' | while read -r c; do
             title=$(echo "$c" | jq -r '.message | split("\n")[0]')
             [[ "$title" == *"New game added"* ]] || continue
+            sha=$(echo "$c" | jq -r '.id')
 
-            echo "$c" | jq -r --arg p "$PREFIX" '
-              .added[]
-              | select(startswith($p))
-              | .[($p | length):]
-              | select(contains("/"))
-              | split("/")[0]
-            ' | sort -u | while read -r folder; do
+            gh api "repos/$REPO/commits/$sha" </dev/null \
+              --jq '.files[] | select(.status == "added") | .filename' \
+            | PREFIX="$PREFIX" jq -Rr '
+                select(startswith(env.PREFIX))
+                | .[(env.PREFIX | length):]
+                | select(contains("/"))
+                | split("/")[0]
+              ' | sort -u | while read -r folder; do
               slug=$(jq -rn --arg f "$folder" '$f | @uri')
               link="https://www.sizegameindex.fyi/game.html?g=${slug}"
               jq -n --arg content "$title"$'\n'"$link" '{content: $content}' \
