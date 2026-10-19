@@ -1,18 +1,19 @@
 field,value
 title,Shrink with a Succubus
 original_title,
-summary,"Short 3D scenario with a big succubus, different scenes based on state when captured"
-narrative,"You find a magic book. When casting one of the spells you end up summoning a succubus and shrinking in the process"
-time_to_complete,
-tags,VR|First person|Shrinking
+summary,"Short 3D scenario with a big succubus, different scenes based on state when captured."
+narrative,"You found a forbidden tome, which summons forth a succubus and shrunk you in the process."
+time_to_complete,<20 minutes
+tags,VR|First person|Shrinking|Gallery-mode
 interactions,Female/unspecified
 development_status,In Development
 pricing_model,Freeware with Early Access
 game_engine,Unity
-art_rating,4
+art_rating,1
 main_art_style,3D Environment
 mechanic_rating,4
-mechanics_description,
+mechanics_description,"Avoid stomping, grabbing and crushing attacks while firing cannons and crossbow bolts to subdue the giantess.
+Choose from a variety of customization options to change the succubus' appearance"
 animation_rating,4
 size_focus,3
 game_links,https://m87124games.itch.io/swas
@@ -26,6 +27,7 @@ release_date,2021-11-30
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-19
 creation_time,2026-09-30
 thumbnails,thumb.webp|gameplay.webp|image.webp
+size_category,Mini
