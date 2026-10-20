@@ -27,9 +27,9 @@ release_date,2026-08-11
 languages,Chinese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-18
+entry_last_updated,2026-10-20
 creation_time,2026-09-30
 thumbnails,thumb.webp|gameplay.webp|image.webp|image2.webp|image3.webp
 size_category,Minigirl
-instructions,"(Extraction password: Unobling)
-(Extract both Mega files to the same folder, then change the "".789"" extension to "".rar"", then extract again)"
+instructions,"Extraction password: Unobling
+Extract both Mega files to the same folder using a zip tool like Winrar, then change the "".789"" extension to "".rar"" and extract it again."
