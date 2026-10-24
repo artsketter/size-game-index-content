@@ -1,8 +1,8 @@
 field,value
 title,Shrink Growth Blackjack
 original_title,
-summary,"Blackjack simulator with a variety of interactions with the dealers based on your size ratio when losing. No illustrations"
-narrative,"You enter a blackjack casino where players wager their size rather than money"
+summary,Blackjack simulator with a variety of interactions with the dealers based on your size ratio when losing. No illustrations
+narrative,You enter a blackjack casino where players wager their size rather than money
 time_to_complete,
 tags,Arcade|Shrinking
 development_status,Completed
@@ -12,7 +12,7 @@ art_rating,1
 main_art_style,No CG Content
 mechanic_rating,3
 mechanics_description,
-animation_rating,
+animation_rating,0
 size_focus,3
 game_links,https://tappi-0200.itch.io/shrink-growth-blackjack
 walkthrough,
@@ -25,6 +25,6 @@ release_date,2023-02-24
 languages,Japanese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-24
 creation_time,2026-09-30
 thumbnails,thumb.webp

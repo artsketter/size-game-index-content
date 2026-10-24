@@ -13,7 +13,7 @@ main_art_style,Illustration
 mechanic_rating,2
 mechanics_description,
 animation_rating,4
-size_focus,2
+size_focus,1
 game_links,https://giantwoman.itch.io/regular-whack-a-mole
 walkthrough,
 creator_link,
@@ -25,7 +25,7 @@ release_date,2020-08-23
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-03
+entry_last_updated,2026-10-24
 creation_time,2026-09-30
 thumbnails,thumb.webp
 size_category,Miniguy
