@@ -1,17 +1,17 @@
 field,value
 title,Shrink Escape
 original_title,縮小escape
-summary,Small stomp game featuring highschool characters
+summary,Stomp game featuring highschool characters. Complete each level to unlock new gamemodes.
 narrative,
-time_to_complete,<5 minutes
-tags,Stomping|Highschool
+time_to_complete,<20 minutes
+tags,Stomping|Highschool|Minigames
 development_status,Completed
 pricing_model,Free
 game_engine,Godot
 art_rating,5
 main_art_style,Illustration
 mechanic_rating,2
-mechanics_description,Dodge stomping attacks for 60 seconds to survive
+mechanics_description,"Dodge stomping attacks for 60 seconds to survive. Once all of the early levels are completed, a foot cleaning stamina management gamemode and a special stomping level are unlocked."
 animation_rating,0
 size_focus,3
 game_links,https://drive.google.com/drive/folders/13f5E7yukOo680_XJyqvjOh5QAb8NVYtu?usp=drive_link
@@ -19,15 +19,15 @@ walkthrough,
 creator_link,https://x.com/Okkinatintin_O
 forum_link,
 authors,yamamoto / Okkinatintin_O
-last_updated,2026-10-17
-latest_content_update,FREE: game released
+last_updated,2026-10-24
+latest_content_update,FREE: v2.0 update + balance patch
 release_date,2026-10-17
 languages,Japanese|English
 filtered,no
 contains_ai,yes
-entry_last_updated,2026-10-18
+entry_last_updated,2026-10-25
 creation_time,2026-10-18
 thumbnails,thumb.webp|image.webp
 size_category,Mini
 interactions,Female/unspecified
-instructions,Only 縮小escape.exe is necessary
+instructions,
