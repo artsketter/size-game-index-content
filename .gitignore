@@ -1,3 +1,4 @@
 editor_config.json
 *.txt
 /tools
+build_index.bat
