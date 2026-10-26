@@ -1,7 +1,7 @@
 field,value
 title,Cockroach Simulator
 original_title,
-summary,"Asymmetric multiplayer game where you play as a group of cockroaches against a single human"
+summary,Asymmetric multiplayer game where you play as a group of cockroaches against a single human
 narrative,
 time_to_complete,
 tags,Multiplayer|Sfw|Simulation
@@ -10,7 +10,7 @@ pricing_model,Premium Purchase
 game_engine,Unity
 art_rating,2
 main_art_style,3D Environment
-mechanic_rating,4
+mechanic_rating,3
 mechanics_description,
 animation_rating,1
 size_focus,3
@@ -25,6 +25,7 @@ release_date,2016-09-15
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-26
 creation_time,2026-09-30
 thumbnails,thumb.webp
+size_category,Mini

@@ -1,20 +1,20 @@
 field,value
 title,Captain Firehawk and the Laser Love Situation
 original_title,
-summary,Strip-em-up arcade shooter with giantess levels
-narrative,
-time_to_complete,
-tags,Arcade
+summary,Retro aesthetic strip-em-up arcade shooter with giantess levels.
+narrative,"Giant, size-morphing aliens are invading the solar system, and it's up to Captain Firehawk to captain a ship to disarm them by shooting off their clothing."
+time_to_complete,2-3 hours
+tags,Arcade|Visual novel|Shoot-em-up
 development_status,Completed
 pricing_model,Premium Purchase
-game_engine,
+game_engine,Unity
 art_rating,3
 main_art_style,Illustration
 mechanic_rating,2
 mechanics_description,
 animation_rating,3
-size_focus,3
-game_links,https://www.dlsite.com/maniax/work/=/product_id/RJ01342238.html
+size_focus,2
+game_links,https://store.steampowered.com/app/2054690/Captain_Firehawk_and_the_Laser_Love_Situation/
 walkthrough,
 creator_link,
 forum_link,
@@ -25,7 +25,7 @@ release_date,2024-02-09
 languages,English|Chinese|Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-03
+entry_last_updated,2026-10-26
 creation_time,2026-09-30
-thumbnails,thumb.webp
+thumbnails,thumb.webp|image.webp|image1.webp
 size_category,Giantess

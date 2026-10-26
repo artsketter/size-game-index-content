@@ -8,7 +8,7 @@ tags,VR
 development_status,In Development
 pricing_model,Membership Site
 game_engine,Unity
-art_rating,
+art_rating,1
 main_art_style,3D Environment
 mechanic_rating,
 mechanics_description,
@@ -25,6 +25,6 @@ release_date,2022-07-03
 languages,Japanese
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-10-26
 creation_time,2026-09-30
 thumbnails,thumb.webp
