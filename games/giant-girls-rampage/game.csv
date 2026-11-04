@@ -11,7 +11,8 @@ game_engine,Godot
 art_rating,5
 main_art_style,Illustration
 mechanic_rating,2
-mechanics_description,"Recruit units to deal damage to a giant monstergirls who drop coins at health increments. Invest coins into your village to generate more coins and make your units deal more damage. Prestige points (Arcana) are gained by dealing damage, which let you buy persisting upgrades for your next town.
+mechanics_description,"Recruit units to deal damage to a giant monstergirl who drops coins at health increments. 
+Invest coins into your town to generate more coins and make your units deal more damage. Prestige points (Arcana) are gained by dealing damage, which let you buy persisting upgrades for your next town.
 Defeating each giantess unlocks a gallery scene where she is dominated by the tiny villagers."
 animation_rating,3
 size_focus,1
