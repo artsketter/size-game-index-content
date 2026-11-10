@@ -4,7 +4,7 @@ original_title,
 summary,Short arcade game where you play as a grape dodging a giant pair of feet
 narrative,"You are a grape in a barrel, about to be stomped on by a young lady making traditional wine."
 time_to_complete,<1 hour
-tags,Arcade|Stomping
+tags,Arcade|Stomping|Browser Playable
 interactions,Female/object
 development_status,Completed
 pricing_model,Free
@@ -26,6 +26,6 @@ release_date,2019-08-14
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-31
+entry_last_updated,2026-11-10
 creation_time,2026-09-30
 thumbnails,thumb.webp

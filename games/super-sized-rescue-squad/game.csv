@@ -1,10 +1,10 @@
 field,value
 title,Super Sized Rescue Squad
 original_title,
-summary,"Simple arcade platformer about rescuing people as a giantess"
+summary,Simple arcade platformer about rescuing people as a giantess
 narrative,
 time_to_complete,
-tags,Arcade|Platformer|Playable gts
+tags,Arcade|Platformer|Playable gts|Browser Playable
 development_status,Completed
 pricing_model,Free
 game_engine,
@@ -25,6 +25,6 @@ release_date,2023-11-08
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-11-10
 creation_time,2026-09-30
 thumbnails,thumb.webp

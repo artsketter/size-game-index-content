@@ -4,7 +4,7 @@ original_title,
 summary,Blackjack simulator with a variety of interactions with the dealers based on your size ratio when losing. No illustrations
 narrative,You enter a blackjack casino where players wager their size rather than money
 time_to_complete,
-tags,Arcade|Shrinking
+tags,Arcade|Shrinking|Browser Playable
 development_status,Completed
 pricing_model,Free
 game_engine,RPGMAKER 2000
@@ -25,6 +25,6 @@ release_date,2023-02-24
 languages,Japanese|English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-24
+entry_last_updated,2026-11-10
 creation_time,2026-09-30
 thumbnails,thumb.webp

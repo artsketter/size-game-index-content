@@ -4,7 +4,7 @@ original_title,
 summary,Vibe coded boss battler game with characters from the Hero Shipment series
 narrative,
 time_to_complete,<5 minutes
-tags,Action|Bullet hell|Boss battler|Vore
+tags,Action|Bullet hell|Boss battler|Vore|Browser Playable
 development_status,Demo
 pricing_model,Free (DEMO)
 game_engine,Godot
@@ -26,7 +26,7 @@ release_date,2026-09-27
 languages,Japanese|English
 filtered,no
 contains_ai,yes
-entry_last_updated,2026-10-31
+entry_last_updated,2026-11-10
 creation_time,2026-10-05
 thumbnails,thumb.webp|image.webp|image1.webp
 size_category,

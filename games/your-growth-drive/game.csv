@@ -1,10 +1,10 @@
 field,value
 title,Your Growth Drive
 original_title,
-summary,"Cookie clicker clone with growth mechanics and several types of point-and-click minigames. You can submit custom sprite images to replace the character which undergoes growth."
+summary,Cookie clicker clone with growth mechanics and several types of point-and-click minigames. You can submit custom sprite images to replace the character which undergoes growth.
 narrative,
 time_to_complete,
-tags,Customizable|Growth|Point-and-click|Sfw
+tags,Customizable|Growth|Point-and-click|Sfw|Browser Playable
 development_status,In Development
 pricing_model,Free
 game_engine,GameMaker
@@ -25,6 +25,6 @@ release_date,2023-10-23
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-09-30
+entry_last_updated,2026-11-10
 creation_time,2026-09-30
 thumbnails,thumb.webp

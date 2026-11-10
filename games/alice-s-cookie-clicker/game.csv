@@ -4,7 +4,7 @@ original_title,
 summary,Incremental clicker game with growth
 narrative,
 time_to_complete,
-tags,Growth
+tags,Growth|Browser Playable
 development_status,Completed
 pricing_model,Free
 game_engine,Godot
@@ -25,7 +25,7 @@ release_date,2024-03-25
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-03
+entry_last_updated,2026-11-10
 creation_time,2026-09-30
 thumbnails,thumb.webp|gameplay.webp
 size_category,Giantess
