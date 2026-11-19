@@ -11,22 +11,23 @@ pricing_model,Freeware with Early Access
 game_engine,RPGMAKER MZ
 art_rating,4
 main_art_style,Koikatsu Party Render
-mechanic_rating,1
+mechanic_rating,
 mechanics_description,
 animation_rating,
 size_focus,3
-game_links,https://taichigts.itch.io/a-sizeable-incident
+game_links,https://taichigts.itch.io/a-sizeable-incident|https://www.patreon.com/Taichi1/posts/sizeable-v0-2-175336194
 walkthrough,
 creator_link,https://www.patreon.com/cw/Taichi1
 forum_link,
 authors,Taichi
-last_updated,2026-08-16
-latest_content_update,FREE: v0.1.1 demo release
+last_updated,2026-11-14
+latest_content_update,"PATREON: v0.2 update
+FREE: v0.1.1 demo release"
 release_date,2026-08-16
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-10-03
+entry_last_updated,2026-11-19
 creation_time,2026-09-30
 thumbnails,thumb.webp|render1.webp|render2.webp|render3.webp|render4.webp
 size_category,Miniguy
