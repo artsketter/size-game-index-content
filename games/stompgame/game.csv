@@ -1,12 +1,12 @@
 field,value
 title,Stompgame
 original_title,
-summary,Simple browser-playable furry stomping sim where you crush a colony of worker ants. Game assets can be replaced with custom art.
+summary,Simple furry stomping sim where you crush a colony of worker ants. Game assets can be replaced with custom art.
 narrative,
 time_to_complete,∞ endless
 tags,Cruel|Customizable|Femboy|Furry/anthro|Playable gts|Browser Playable
-development_status,In Development
-pricing_model,Free
+development_status,Completed
+pricing_model,Premium Purchase
 game_engine,JavaScript
 art_rating,5
 main_art_style,Illustration
@@ -20,7 +20,7 @@ creator_link,
 forum_link,
 authors,ikkimikka
 last_updated,2026-04-05
-latest_content_update,FREE: game moved to itch.io + purchaseable download
+latest_content_update,ITCH: game no longer free after trending on twitter
 release_date,2025-12-08
 languages,English
 filtered,no
