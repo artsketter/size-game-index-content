@@ -1,7 +1,7 @@
 field,value
 title,Your Growth Drive
 original_title,
-summary,Cookie clicker clone with growth mechanics and several types of point-and-click minigames. You can submit custom sprite images to replace the character which undergoes growth.
+summary,Cookie clicker clone with growth mechanics and several types of point-and-click minigames. You can submit custom sprite images to replace the character which grows.
 narrative,
 time_to_complete,
 tags,Customizable|Growth|Point-and-click|Sfw|Browser Playable
@@ -9,22 +9,22 @@ development_status,In Development
 pricing_model,Free
 game_engine,GameMaker
 art_rating,2
-main_art_style,
+main_art_style,Illustration
 mechanic_rating,2
 mechanics_description,
-animation_rating,
+animation_rating,0
 size_focus,3
 game_links,https://tamnyam.itch.io/ygd?secret=jvkbmyXUTY4JdSMLhD88u8gGAQ
 walkthrough,
-creator_link,
+creator_link,https://boosty.to/tamnyam
 forum_link,
 authors,TamNyam
-last_updated,2025-05-04
-latest_content_update,FREE: I40225 update released
+last_updated,2026-09-22
+latest_content_update,FREE: game updated
 release_date,2023-10-23
 languages,English
 filtered,no
 contains_ai,no
-entry_last_updated,2026-11-10
+entry_last_updated,2026-11-21
 creation_time,2026-09-30
 thumbnails,thumb.webp
